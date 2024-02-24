@@ -3852,20 +3852,6 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="CHANNEL  |  HBO GRUP",HBO
-http://103.113.116.150:25461/mtm1/12345/16
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="CHANNEL  |  HBO GRUP",HBO HITS
-http://103.113.116.150:25461/mtm1/12345/17
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"  group-title="CHANNEL  |  HBO GRUP",HBO SIGNATURE
-http://103.113.116.150:25461/mtm1/12345/18
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="CHANNEL  |  HBO GRUP",HBO FAMILY
-http://103.113.116.150:25461/mtm1/12345/19
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="CHANNEL  |  HBO GRUP",CINEMAX
-http://103.113.116.150:25461/mtm1/12345/20
 
 
 
