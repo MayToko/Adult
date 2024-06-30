@@ -14565,47 +14565,477 @@ http://iptvtree.net:8080/e891d265/89d742c3/162138
 
 
 
-///CCTV/////
 
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CHANNEL | CCTV GRUB",CCTV+
+ASIA CHANEL#
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 1
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 2
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 3
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 4
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 5
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 5+
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 6
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 7
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 9
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 10
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 11
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 12
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 13
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 14
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 15
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 16
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e4/3d/c3/e43dc3eabbc6169a0806bd4c3cb091a2.jpg" group-title="CHANNEL | CCTV CHINA", CCTV 17
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv17phd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 1 (VPN)
+https://node1.olelive.com:6443/live/CCTV1/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 2 (VPN)
+https://node1.olelive.com:6443/live/CCTV2/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 3 (VPN)
+https://node1.olelive.com:6443/live/CCTV3/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 4 (VPN)
+https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 5 (VPN)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 5+ (VPN)
+http://125.78.15.129:4022/rtp/239.61.2.171:9014
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 6 (VPN)
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 7 (VPN)
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 8 (VPN)
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 9 (VPN)
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 10 (VPN)
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 11 (VPN)
+https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 12 (VPN)
+https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 13 (VPN)
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 14 (VPN)
+https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 15 (VPN)
+https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 16 (VPN)
+https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CCTVNewLogo.svg/800px-CCTVNewLogo.svg.png" group-title="CHANNEL | CCTV CHINA", CCTV 17 (VPN)
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 1 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 2 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 3
- 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 4 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 5 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 5+
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 6 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 7
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 8
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 9 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 10 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 11 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 12 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 13
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 14 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 15 
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20211024/1d439f5f1f4590a608e86f27bd22114e.jpg" group-title="CHANNEL | SPORT", ARENA SPORT 1 PREMIUM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=801855&extension=ts&play_token=5iYcwPJUh5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133122" group-title="CHANNEL | SPORT", ARENA SPORT 2 PREMIUM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=801856&extension=ts&play_token=Yhwb9Uzywl
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sU2bGhK8ZEDG1xAqassY6QWgr2cDMaB6jc-UeFQslegh7mz_PQ07t69ul6-TvAXW1_g&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 3 PREMIUM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=801857&extension=ts&play_token=dMoNEBGzeZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 1 RS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=908230&extension=ts&play_token=6M70v2wtcm
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="CHANNEL | SPORT", ARENA SPORT 2 RS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110912&extension=ts&play_token=Bpph6LdgyS
+#EXTINF:-1 tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/arena_sport_3.png/02bc5460-4675-da3f-bf14-59c26db2724b" group-title="CHANNEL | SPORT", ARENA SPORT 3 RS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110909&extension=ts&play_token=5FJLZ48ylh
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/529258_dreambox-sat.com_.png" group-title="CHANNEL | SPORT", ARENA SPORT 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110908&extension=ts&play_token=zE2Au534Nk
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png" group-title="CHANNEL | SPORT", ARENA SPORT 5
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110906&extension=ts&play_token=Lc9Dwbk3PR
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Farenasportcroatia.gif" group-title="CHANNEL | SPORT", ARENA SPORT 6
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161936&extension=ts&play_token=vnjaKQnu9s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQB0VHmAFvyuhCdIVgVuqohWMy9RFVclD-UjdIj46q3mMcOstIjaMGXuEVQOT_Kjuvw&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 7
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=71907&extension=ts&play_token=23EakKQYoi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWh4l9Eac92y-7ln6CZKxW_ZOUUDoiDOurpF_KDi5SqZiE1C0VnzcJb9l1GI21_Ahyg&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 8
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=71908&extension=ts&play_token=WoOiTVI45y
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 1 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110737&extension=ts&play_token=JzInMVfkel
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="CHANNEL | SPORT", ARENA SPORT 2 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110736&extension=ts&play_token=3AKpxA6CIp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjZMF2fuGgxxgOrss5YOOMhI6SipPZgaLlFIHS9yVniH_ESyJ9WVclgedA_NUa8Z5m3s&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 3 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110735&extension=ts&play_token=DMyrsnKH0i
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/529258_dreambox-sat.com_.png" group-title="CHANNEL | SPORT", ARENA SPORT 4 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110734&extension=ts&play_token=bbjFaaZkiY
+#EXTINF:-1 tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png" group-title="CHANNEL | SPORT", ARENA SPORT 5 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110733&extension=ts&play_token=5o6DI81zOu
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Farenasportcroatia.gif" group-title="CHANNEL | SPORT", ARENA SPORT 6 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110732&extension=ts&play_token=SkSzQtOUIn
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQB0VHmAFvyuhCdIVgVuqohWMy9RFVclD-UjdIj46q3mMcOstIjaMGXuEVQOT_Kjuvw&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 7 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=726582&extension=ts&play_token=sll5LcGL5K
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWh4l9Eac92y-7ln6CZKxW_ZOUUDoiDOurpF_KDi5SqZiE1C0VnzcJb9l1GI21_Ahyg&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 8 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=726583&extension=ts&play_token=7wdnKFh00A
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrrczZLS8leR9rNkp4YPiu3Wfdjnp7Vd_stuGx2Vc5uWuTup92Z31ig8mBKpU3zPO_g&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 9 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=726584&extension=ts&play_token=y3Dvtw1kFw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNs1mzwhcRdT5QEy8a2k1JI1GDuuNnR1OaVF7ozmxno0c6pcHrL2Uu4NiQecDkkY8qNg&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 10 HR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=726585&extension=ts&play_token=QohVDVZoOK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 1 CR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161931&extension=ts&play_token=UZW0tLD2e9
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="CHANNEL | SPORT", ARENA SPORT 2 CR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161932&extension=ts&play_token=HeNdedmiz2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjZMF2fuGgxxgOrss5YOOMhI6SipPZgaLlFIHS9yVniH_ESyJ9WVclgedA_NUa8Z5m3s&usqp=CAU" group-title="CHANNEL | SPORT", ARENA SPORT 3 CR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161933&extension=ts&play_token=ycMTn63wDw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTihnQcGtCDaDE5Gr3agIKFcPtc95k0_RliBg&usqp=CAU" group-title="CHANNEL | SPORT", C MORE SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=154613&extension=ts&play_token=iFj5xcZHeF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQCloYS3Xq7pf24b01Jmuk2oe23xmfXlmNg&usqp=CAU" group-title="CHANNEL | SPORT", C MORE SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=154614&extension=ts&play_token=Z07bXITV8k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DIGI%201.png" group-title="CHANNEL | SPORT", DIGI SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=56119&extension=ts&play_token=pNhBMebn4P
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DIGI%202.png" group-title="CHANNEL | SPORT", DIGI SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=56118&extension=ts&play_token=K4xAhQCIP4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DIGI%203.png" group-title="CHANNEL | SPORT", DIGI SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=207963&extension=ts&play_token=933NiBDJ5E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DIGI%204.png" group-title="CHANNEL | SPORT", DIGI SPORT 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=207964&extension=ts&play_token=xacNV5OkV7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/diema1.png" group-title="CHANNEL | SPORT", DIEMA SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=154819&extension=ts&play_token=GuGDLRCPbT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/diema2.png" group-title="CHANNEL | SPORT", DIEMA SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=154820&extension=ts&play_token=MU1hoMHWkL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/diema3.png" group-title="CHANNEL | SPORT", DIEMA SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=154916&extension=ts&play_token=ryQXUsfsRT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLhSFflbk6g8cK4j6bjYH5tEMIQhd07rLuA&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=845309&extension=ts&play_token=YO16GdFUjs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_FAXSwTKQ4DxXchQsPwEd7gDJ5p5k-tlCw&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110769&extension=ts&play_token=NdMfCIWb2i
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3TzpZQqckOZWBlymmlshg4XsBK3WqI_mDg&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110768&extension=ts&play_token=xNbFF1a8kH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rIUJGdG_U7JTvFPeKHsSaXj8krLqGTxitg&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110767&extension=ts&play_token=LoHRI4fFTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SK_5.png/revision/latest?cb=20200415224611" group-title="CHANNEL | SPORT", KLUB SPORT 5
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110766&extension=ts&play_token=0uVASziRwN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SK_6.png/revision/latest?cb=20200415224810" group-title="CHANNEL | SPORT", KLUB SPORT 6
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110765&extension=ts&play_token=8dUyatZl02
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIGmfWEw8-ciAnepilk6c-IO22tQDVu_nJA&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 7
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161949&extension=ts&play_token=AqgvS2C7Vh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIGmfWEw8-ciAnepilk6c-IO22tQDVu_nJA&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 8
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161950&extension=ts&play_token=23lPumM7ny
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIGmfWEw8-ciAnepilk6c-IO22tQDVu_nJA&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 9
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161951&extension=ts&play_token=LXuh89cr7g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIGmfWEw8-ciAnepilk6c-IO22tQDVu_nJA&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT 10
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1209968&extension=ts&play_token=GLtH4AZkb8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQku9-rq5JBAQKc4AiuFzs5GGScqeixHtBw&usqp=CAU" group-title="CHANNEL | SPORT", KLUB SPORT GOLF
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110764&extension=ts&play_token=AS9X0Z0mpP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISkXfljQOdZOskNSrCSNROXZQcgFp2twAbQ&usqp=CAU" group-title="CHANNEL | SPORT", RAI SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=692382&extension=ts&play_token=XY7rT53unN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRM6CiZ49ubXTvJjfRnpelzVYwg4Fm2o9Yfg&usqp=CAU" group-title="CHANNEL | SPORT", HORSE TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=692477&extension=ts&play_token=8cLU8sjWIf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZzkfNyBxz5pIkjfITKAtrclvWqQleUsEJA&usqp=CAU" group-title="CHANNEL | SPORT", TENNIS CHANEL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=692386&extension=ts&play_token=nZs52mPI1J
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6uswoVy9BxS3g1Xib7dg-MUeLmpqqROOAg&usqp=CAU" group-title="CHANNEL | SPORT", SETANTA SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1040328&extension=ts&play_token=6VWscFSvga
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjDkkaNsvziOhvdRdES2KKnD9gK_bcia57bA&usqp=CAU" group-title="CHANNEL | SPORT", SETANTA SPORT +
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1040327&extension=ts&play_token=4rGJcqgCF5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="CHANNEL | SPORT", SETANTA 1 SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Setanta_Sports_2_2019.png/revision/latest?cb=20220714222720" group-title="CHANNEL | SPORT", SETANTA 2 SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=132717&extension=ts&play_token=JIQAe2UvyK
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", MATCH ARENA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=132559&extension=ts&play_token=HysfJeXAoU
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", MATCH FOOTBALL 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=300836&extension=ts&play_token=mZm9j7nnnI
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", MATCH FOOTBALL 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=132562&extension=ts&play_token=1a9wikaE9A
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", MATCH FOOTBALL 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=132564&extension=ts&play_token=ShKDGyU8Ki
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", MATCH PREMIER
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=459676&extension=ts&play_token=QhILPO01NV
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", NOVA SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=98306&extension=ts&play_token=N3zzjMzgWH
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", NOVA SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=98307&extension=ts&play_token=D6oXQIyE4x
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", S SPORT TV 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161952&extension=ts&play_token=49oVKQPh3R
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", S SPORT TV 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110924&extension=ts&play_token=yiUpfOxIe1
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", S SPORT TV 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=161954&extension=ts&play_token=j8BcJVGfou
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", V PREMIER LEAGUE 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1001371&extension=ts&play_token=URIllB0sUV
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", V PREMIER LEAGUE 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1001369&extension=ts&play_token=7uJ7REIM2y
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", V PREMIER LEAGUE 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1001368&extension=ts&play_token=PP7LFtgGIF
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", V PREMIER LEAGUE 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1001367&extension=ts&play_token=x4TznoRUWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCf2ju6QgElzFs2d5TwBjXnOkoMM5OTVlow&usqp=CAU" group-title="CHANNEL | SPORT", PRIMA SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=207928&extension=ts&play_token=dFnGxysxCj
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", VJu+ SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=132781&extension=ts&play_token=bVFFxXhGrN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ukraS1.png" group-title="CHANNEL | SPORT", SPORT 1 UR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=841689&extension=ts&play_token=8p1hv8pbj4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ukraS2.png" group-title="CHANNEL | SPORT", SPORT 2 UR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=841688&extension=ts&play_token=g8cDt8M7TG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/RTSH.png" group-title="CHANNEL | SPORT", RTSH SPORT HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116136&extension=ts&play_token=kmFta94NIQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ART%201.png" group-title="CHANNEL | SPORT", ART SPORT 1 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116245&extension=ts&play_token=88Pm109nGm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ART%202.png" group-title="CHANNEL | SPORT", ART SPORT 2 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116244&extension=ts&play_token=w4RCMAH0R8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ART%203.png" group-title="CHANNEL | SPORT", ART SPORT 3 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116243&extension=ts&play_token=w4RCMAH0R8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ART%204.png" group-title="CHANNEL | SPORT", ART SPORT 4 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116242&extension=ts&play_token=w4RCMAH0R8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-5-2663.png" group-title="CHANNEL | SPORT", ART SPORT 5 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116241&extension=ts&play_token=w4RCMAH0R8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-6-2664.png" group-title="CHANNEL | SPORT", ART SPORT 6 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116240&extension=ts&play_token=w4RCMAH0R8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL1.png" group-title="CHANNEL | SPORT", SUPER SPORT 1 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=315174&extension=ts&play_token=RFCoBly3q3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL2.png" group-title="CHANNEL | SPORT", SUPER SPORT 2 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116249&extension=ts&play_token=iWI2iJp4i2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL3.png" group-title="CHANNEL | SPORT", SUPER SPORT 3 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116250&extension=ts&play_token=UKtvbHmYC3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL4.png" group-title="CHANNEL | SPORT", SUPER SPORT 4 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116251&extension=ts&play_token=UKtvbHmYC3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL5.png" group-title="CHANNEL | SPORT", SUPER SPORT 5 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116252&extension=ts&play_token=UKtvbHmYC3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL6.png" group-title="CHANNEL | SPORT", SUPER SPORT 6 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=116253&extension=ts&play_token=UKtvbHmYC3
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", OVER SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=819621&extension=ts&play_token=WsvtVnvgCL
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", OVER SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=819622&extension=ts&play_token=dMlWtkIwrF
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", OVER SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=819623&extension=ts&play_token=3C071RXBsV
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", OVER SPORT 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=819624&extension=ts&play_token=oNt6MZbYyo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ORANGE%201.png" group-title="CHANNEL | SPORT", ORANGE SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=56040&extension=ts&play_token=Ugwsqo2rrU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ORANGE%202.png" group-title="CHANNEL | SPORT", ORANGE SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=56039&extension=ts&play_token=HlNJpOcKKm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ORANGE%203.png" group-title="CHANNEL | SPORT", ORANGE SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=208009&extension=ts&play_token=sXtPsnpRdm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ORANGE%204.png" group-title="CHANNEL | SPORT", ORANGE SPORT 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=92680&extension=ts&play_token=5q15VVXkYC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYYALOTPEaxuje-aQ7Vf5_25rphoZxdBA6w&usqp=CAU" group-title="CHANNEL | SPORT", VIAPLAY SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45235&extension=ts&play_token=L5v3eNkEQU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHcyATuQKSg1kPQB91ZgSoRkcx44RYfjbOA&usqp=CAU" group-title="CHANNEL | SPORT", VIAPLAY SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=163608&extension=ts&play_token=weRjYwEZxO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcRdr-6gCiwO39-xnVtHCJQRHCkayQnzEaw&usqp=CAU" group-title="CHANNEL | SPORT", VIAPLAY EXTRA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1014260&extension=ts&play_token=QmzgBvbonr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canalPL.png" group-title="CHANNEL | SPORT", CANAL+ PREMIER LEAGUE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508167&extension=ts&play_token=1nsvxInv16 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canalGF.png" group-title="CHANNEL | SPORT", CANAL+ MOTOGP
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508165&extension=ts&play_token=LwIO2B91Rs 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canalGolf.png" group-title="CHANNEL | SPORT", CANAL+ GOLF
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508152&extension=ts&play_token=B5Pfbw3H01 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canalGolf.png" group-title="CHANNEL | SPORT", GOLF CHANEL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508151&extension=ts&play_token=eSCbjUq85r 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canalL1.png" group-title="CHANNEL | SPORT", CANAL+ LIGUE 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508166&extension=ts&play_token=nK7HBwJJej 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canal24.png" group-title="CHANNEL | SPORT", FOOT+ 24/24
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508150&extension=ts&play_token=giBDBIBZYz 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/canalinfo.png" group-title="CHANNEL | SPORT", INFOSPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508169&extension=ts&play_token=NaNl5etGT6 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="CHANNEL | SPORT", DAZN 1 DE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=411389&extension=ts&play_token=HsuxrD6mL2 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="CHANNEL | SPORT", DAZN 2 DE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=411388&extension=ts&play_token=4IS0zXf2D6 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="CHANNEL | SPORT", DAZN ZONE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1273580&extension=ts&play_token=bGsClCAwGV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="CHANNEL | SPORT", DAZN ZONA HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=691242&extension=ts&play_token=60FhUEUHIX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="CHANNEL | SPORT", DAZN 1 SERI A
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=728649&extension=ts&play_token=tCNVVuqPvx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBuKyqlTKTHsAVbPnSbWQN5YGDHma5lpX3g&usqp=CAU" group-title="CHANNEL | SPORT", DAZN 2 SERI B
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=728648&extension=ts&play_token=nYGUa7W9jX
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", EUROSPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508162&extension=ts&play_token=L4D2gbJR3c 
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL | SPORT", EUROSPORT 2 
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=508161&extension=ts&play_token=VNgJDJiKDV 
+#EXTINF:-1 tvg-logo="_____" group-title="CHANNEL | SPORT", ORF SPORT AT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=127405&extension=ts&play_token=ig1qtRO06T
+#EXTINF:-1 tvg-logo="_____" group-title="CHANNEL | SPORT", SKY SPORT AUSTRIA 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=284075&extension=ts&play_token=MQ5ch8CdOJ
+#EXTINF:-1 tvg-logo="_____" group-title="CHANNEL | SPORT", SKY SPORT AUSTRIA 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=284070&extension=ts&play_token=D303yeJQhK
+#EXTINF:-1 tvg-logo="_____" group-title="CHANNEL | SPORT", SKY SPORT AUSTRIA 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=284069&extension=ts&play_token=H8RtFzjlqF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/play1.png" group-title="CHANNEL | SPORT", PLAY SPORT 1 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=811941&extension=ts&play_token=0PGpJWMoeq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/play2.png" group-title="CHANNEL | SPORT", PLAY SPORT 2 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=811940&extension=ts&play_token=7Qz7wdixwA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/play3.png" group-title="CHANNEL | SPORT", PLAY SPORT 3 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=811939&extension=ts&play_token=c2oclzwFiK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/play4.png" group-title="CHANNEL | SPORT", PLAY SPORT 4 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=811938&extension=ts&play_token=pumZRcTXZt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/play5.png" group-title="CHANNEL | SPORT", PLAY SPORT 5 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=811937&extension=ts&play_token=v7JIxP47xk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/playgolf.png" group-title="CHANNEL | SPORT", PLAY SPORT GOLF
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=811936&extension=ts&play_token=gec2IMAjS7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYYALOTPEaxuje-aQ7Vf5_25rphoZxdBA6w&usqp=CAU" group-title="CHANNEL | SPORT", VIAPLAY SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45235&extension=ts&play_token=L5v3eNkEQU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHcyATuQKSg1kPQB91ZgSoRkcx44RYfjbOA&usqp=CAU" group-title="CHANNEL | SPORT", VIAPLAY SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=163608&extension=ts&play_token=weRjYwEZxO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcRdr-6gCiwO39-xnVtHCJQRHCkayQnzEaw&usqp=CAU" group-title="CHANNEL | SPORT", VIAPLAY EXTRA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1014260&extension=ts&play_token=QmzgBvbonr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TYC.png" group-title="CHANNEL | SPORT", TYC SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=79284&extension=ts&play_token=N7EmQhXfa1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TYC.png" group-title="CHANNEL | SPORT", TYC SPORT AR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=25306&extension=ts&play_token=spmMNxKLPF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN BR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59265&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN 2 BR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59264&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN 3 BR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59263&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN 4 BR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=890658&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN EXTRA BR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59262&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN LAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=25511&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN 2 LAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=25513&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN 3 LAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=25512&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN EXTRA LAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=90791&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN DEPORTES LAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=75284&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="CHANNEL | SPORT", ESPN PREMIUM LAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=926450&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="CHANNEL | SPORT", SPORTV HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59184&extension=ts&play_token=CN2xBNmpdp 
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="CHANNEL | SPORT", SPORTV 2 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59183&extension=ts&play_token=CN2xBNmpdp 
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="CHANNEL | SPORT", SPORTV 3 HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59182&extension=ts&play_token=CN2xBNmpdp 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFVYJKAIECFogJKTCAAM1a4Tqf9O-rd4Argg&s" group-title="CHANNEL | SPORT", BAND SPORT HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59294&extension=ts 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="CHANNEL | SPORT", PREMIERE 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59161&extension=ts&play_token=CN2xBNmpdp 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAHWm_Cdk4Qqeb_gAP0L4TmeiGOMNZl00PA&usqp=CAU" group-title="CHANNEL | SPORT", PREMIERE 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=59202&extension=ts&play_token=UxolvlsEGM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekagYLw5CoZyv6xenPDktkLHb3wPYqYZbQw&usqp=CAU" group-title="CHANNEL | SPORT", YES SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035203&extension=ts&play_token=5K0N5VJWTW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTcxTTaK0NSK-jTmtCxH-gyUsxr7WJT_p4Q&usqp=CAU" group-title="CHANNEL | SPORT", YES SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035201&extension=ts&play_token=ce2QOqrR2P
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwokqhJM9PnMURz3RqBajVxAtpZUdH1y4fQ&usqp=CAU" group-title="CHANNEL | SPORT", YES SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035199&extension=ts&play_token=fb6FyjAOr6
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/sport_4_israel_logo.png" group-title="CHANNEL | SPORT", YES SPORT 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035197&extension=ts&play_token=9v4jik5FMi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="CHANNEL | SPORT", YES SPORT 5
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035196&extension=ts&play_token=Ypu8S5SThQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/800px-Sport5_Logo.png" group-title="CHANNEL | SPORT", YES SPORT 5 PLUS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035193&extension=ts&play_token=UOms3f1HPe
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxcOz5Yad7Rn2ApN-ND856L0PXCqphNfdhA&usqp=CAU" group-title="CHANNEL | SPORT", YES SPORT 5 PLUS LIVE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035191&extension=ts&play_token=x09ZgJAZu4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVLnk7soYFL6ekCQCftzhRvUW-xIvLMG-MQ&usqp=CAU" group-title="CHANNEL | SPORT", YES SPORT 5 STAR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1035190&extension=ts&play_token=QRKwS3Jwu1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Zspo.png" group-title="CHANNEL | SPORT", ZIGGO SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282765&extension=ts&play_token=NPBKvhi14e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Ztenis.png" group-title="CHANNEL | SPORT", ZIGGO SPORT TENNIS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282759&extension=ts&play_token=s3PHKkCnE7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Zdoc.png" group-title="CHANNEL | SPORT", ZIGGO SPORT DOCU
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282762&extension=ts&play_token=8ObxNnfrqg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Zgolf.png" group-title="CHANNEL | SPORT", ZIGGO SPORT GOLF
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282761&extension=ts&play_token=oeKgMGyrqM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Zraci.png" group-title="CHANNEL | SPORT", ZIGGO SPORT RACING
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282760&extension=ts&play_token=yRy61zDVnI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Zsele.png" group-title="CHANNEL | SPORT", ZIGGO SPORT SELECT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282764&extension=ts&play_token=GEtvSbcm0n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Zvoet.png" group-title="CHANNEL | SPORT", ZIGGO SPORT VOETBALL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=1282748&extension=ts&play_token=mPBaNK3aZ6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superPL.png" group-title="CHANNEL | SPORT", SUPERSPORT PREMIER LEAGUE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239078&extension=ts&play_token=WIj93CqWrq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superlaliga.png" group-title="CHANNEL | SPORT", SUPERSPORT LIGA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239076&extension=ts&play_token=WDliZuSmkz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supertennis.png" group-title="CHANNEL | SPORT", SUPERSPORT TENNIS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=425314&extension=ts&play_token=KmNBsBy8G3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superblitz.png" group-title="CHANNEL | SPORT", SUPERSPORT BLITZ
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=425310&extension=ts&play_token=cB75vs6tv4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superpsl.png" group-title="CHANNEL | SPORT", SUPERSPORT PSL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239077&extension=ts&play_token=wAy6FmsPtA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supergolf.png" group-title="CHANNEL | SPORT", SUPERSPORT GOLF
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=425667&extension=ts&play_token=Sh0E1BOGwg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supergrandstand.png" group-title="CHANNEL | SPORT", SUPERSPORT GRANDSTAND
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239079&extension=ts&play_token=iplWY8qXC5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supermotor.png" group-title="CHANNEL | SPORT", SUPERSPORT MOTOR SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239082&extension=ts&play_token=a0dyarOiLA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superfootball.png" group-title="CHANNEL | SPORT", SUPERSPORT FOOTBALL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239083&extension=ts&play_token=tJv2b2KNwD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superrugby.png" group-title="CHANNEL | SPORT", SUPERSPORT RUGBY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239086&extension=ts&play_token=TCL5qFctcH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supercricket.png" group-title="CHANNEL | SPORT", SUPERSPORT CRICKET
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239087&extension=ts&play_token=blkGUKpfD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety1.png" group-title="CHANNEL | SPORT", SUPERSPORT VARIETY 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239081&extension=ts&play_token=7C6v0BjPnK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety2.png" group-title="CHANNEL | SPORT", SUPERSPORT VARIETY 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239080&extension=ts&play_token=kt1XRyNjAK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety3.png" group-title="CHANNEL | SPORT", SUPERSPORT VARIETY 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239085&extension=ts&play_token=EJNtH2IgAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety4.png" group-title="CHANNEL | SPORT", SUPERSPORT VARIETY 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv16.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 16
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CHANNEL | CCTV GRUB",CCTV 17 
-
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SOCCER PLUS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45572&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45571&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45570&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT ARIZONA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45569&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT WEST
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45559&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT SOUTH
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45563&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT EAST
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=45562&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT 1 ES
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=984950&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT 2 ES
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=984951&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="CHANNEL | SPORT", FOX SPORT 3 ES
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=984952&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 501
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646971&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 502
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646970&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 503
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646969&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 504
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646968&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 505
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646967&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 506
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646966&extension=ts
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="CHANNEL | SPORT", FOX SPORT 507
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=646965&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="CHANNEL | SPORT", BEIN SPORT CA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=177356&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="CHANNEL | SPORT", BEIN SPORT 2 CA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=177357&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="CHANNEL | SPORT", BEIN SPORT 4 CA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=177358&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="CHANNEL | SPORT", BEIN SPORT 5 CA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=177359&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="CHANNEL | SPORT", BEIN SPORT 6 CA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=177360&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UDARA8CCGZZ_UYJ7mUGQ6QcWsF5Osy1q0A&usqp=CAU" group-title="CHANNEL | SPORT", RACING.COM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=156848&extension=ts
 
 
 
