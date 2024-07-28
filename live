@@ -23476,6 +23476,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="CHANNEL | EMTEK GRUP;EVENT | OLYMPIC PARIS",SCTV (LIVE 2)
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="CHANNEL | EMTEK GRUP;CHANNEL | BRI LIGA 1;EVENT | OLYMPIC PARIS",SCTV 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="CHANNEL | EMTEK GRUP;CHANNEL | BRI LIGA 1;EVENT | OLYMPIC PARIS",|SCTV 4
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CHANNEL | EMTEK GRUP",INDOSIAR_Gen
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
