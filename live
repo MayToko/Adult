@@ -25982,3 +25982,50 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAN TV",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",ASTRO: SS 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",ASTRO: SS 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",ASTRO: SS 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",ASTRO: SS 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",ASTRO: SS 5
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
+#EXTINF:-1 tvg-id="ACTION" tvg-name="SuperSport Action" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Action
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70938
+#EXTINF:-1 tvg-id="BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Blitz
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70932
+#EXTINF:-1 tvg-id="CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Cricket
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102200
+#EXTINF:-1 tvg-id="FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Football
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70936
+#EXTINF:-1 tvg-id="GOLF" tvg-name="SuperSport Golf" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Golf
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70939
+#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="SuperSport GrandStand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport GrandStand
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102201
+#EXTINF:-1 tvg-id="LA LIGA" tvg-name="SuperSport La Liga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport La Liga
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70937
+#EXTINF:-1 tvg-id="MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Motorsport
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102202
+#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Premier League
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
+#EXTINF:-1 tvg-id="PSL" tvg-name="SuperSport PSL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport PSL
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70933
+#EXTINF:-1 tvg-id="RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Rugby
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102199
+#EXTINF:-1 tvg-id="TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Tennis
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70935
+#EXTINF:-1 tvg-id="VARIETY 1" tvg-name="SuperSport Variety 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Variety 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70928
+#EXTINF:-1 tvg-id="VARIETY 2" tvg-name="SuperSport Variety 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Variety 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70929
+#EXTINF:-1 tvg-id="VARIETY 3" tvg-name="SuperSport Variety 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Variety 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
+#EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="CHANNEL | SPORT; EVENT | LIGA INGGRIS",SuperSport Variety 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
