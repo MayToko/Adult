@@ -22353,71 +22353,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-three-qa.png" group-title="CHANNEL | SPORT", AL KASS 3
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="CHANNEL | SPORT", AL KASS 4
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
-
-
-#EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-esport-rs.png" group-title="CHANNEL | SPORT", ARENA ESPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
-
-#EXTINF:-1 tvg-id="Arena Fight.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="CHANNEL | SPORT", ARENA FIGHT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 6 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 tvg-id="Arena sport 1x2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1x2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 1x2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1x2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT PL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT PREMIUM 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 #EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT PREMIUM 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -22481,32 +22417,32 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/B/bein-CHANNEL | SPORT-logo-61C099EBD7-seeklogo.com.png" group-title="CHANNEL | SPORT",Beinsport 2 
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-1-qa-fr.png",BEIN CHANNEL | SPORT 1 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-1-qa-fr.png",BEIN SPORT 1 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/46394.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-2-qa.png",BEIN CHANNEL | SPORT 2 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-2-qa.png",BEIN SPORT 2 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/76.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-3-qa.png",BEIN CHANNEL | SPORT 3 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-3-qa.png",BEIN SPORT 3 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/77.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-4-qa.png",BEIN CHANNEL | SPORT 4 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-4-qa.png",BEIN 4 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/61.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-5-qa.png",BEIN CHANNEL | SPORT 5 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-5-qa.png",BEIN SPORT 5 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/62.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-6-qa.png",BEIN CHANNEL | SPORT 6 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-6-qa.png",BEIN SPORT 6 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/63.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-7-qa.png",BEIN CHANNEL | SPORT 7 AR
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-CHANNEL | SPORT-7-qa.png",BEIN SPORT 7 AR
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/64.m3u8
 
-#EXTINF:-1 tvg-id="beIN CHANNEL | SPORT HDTV (English)" tvg-logo="https://seeklogo.com/images/B/bein-CHANNEL | SPORT-logo-61C099EBD7-seeklogo.com.png" group-title="CHANNEL | SPORT" , BEIN CHANNEL | SPORT XTRA
+#EXTINF:-1 tvg-id="beIN CHANNEL | SPORT HDTV (English)" tvg-logo="https://seeklogo.com/images/B/bein-CHANNEL | SPORT-logo-61C099EBD7-seeklogo.com.png" group-title="CHANNEL | SPORT" , BEIN SPORT XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-CHANNEL | SPORT-xtra-en-espanol/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN CHANNEL | SPORT HDTV (Spanish)" tvg-logo="https://seeklogo.com/images/B/bein-CHANNEL | SPORT-logo-61C099EBD7-seeklogo.com.png" group-title="CHANNEL | SPORT" , BEIN CHANNEL | SPORT XTRA En Español 
+#EXTINF:-1 tvg-id="beIN CHANNEL | SPORT HDTV (Spanish)" tvg-logo="https://seeklogo.com/images/B/bein-CHANNEL | SPORT-logo-61C099EBD7-seeklogo.com.png" group-title="CHANNEL | SPORT" , BEIN SPORT XTRA En Español 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinCHANNEL | SPORTllc-beinxtraespanol-vidaa/playlist.m3u8
 
 
@@ -22690,7 +22626,7 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_CHANNEL | SPORT_us.png" group-title="CHANNEL | SPORT", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="Fight CHANNEL | SPORT - [Channel 304].id" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_CHANNEL | SPORT_us.png" group-title="CHANNEL | SPORT", FIGHT CHANNEL | SPORT
+#EXTINF:-1 tvg-id="Fight CHANNEL | SPORT - [Channel 304].id" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_CHANNEL | SPORT_us.png" group-title="CHANNEL | SPORT", FIGHT SPORT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -22882,7 +22818,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="NBCCHANNEL | SPORTBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="CHANNEL | SPORT" ,  NBC CHANNEL | SPORT 
+#EXTINF:-1 tvg-id="NBCCHANNEL | SPORTBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="CHANNEL | SPORT" ,  NBC SPORT 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22967,24 +22903,24 @@ https://canale.mizhls.ru/lb/premium6/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sport-fr.png" group-title="CHANNEL | SPORT", Persiana CHANNEL | SPORT 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sport-fr.png" group-title="CHANNEL | SPORT", Persiana SPORT 
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/473595.m3u8
 
-#EXTINF:-1 tvg-id="Play CHANNEL | SPORT HD1.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY CHANNEL | SPORT 1 
+#EXTINF:-1 tvg-id="Play CHANNEL | SPORT HD1.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY SPORT 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="Play CHANNEL | SPORT HD2.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY CHANNEL | SPORT 2 
+#EXTINF:-1 tvg-id="Play CHANNEL | SPORT HD2.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY SPORT 2 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-id="Play CHANNEL | SPORT HD3.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY CHANNEL | SPORT 3
+#EXTINF:-1 tvg-id="Play CHANNEL | SPORT HD3.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY SPORT 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23016,34 +22952,34 @@ http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/518252
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium451/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Premier CHANNEL | SPORT 2.ie" group-title="CHANNEL | SPORT" tvg-logo="https://iili.io/d9i4tHv.png", PREMIER CHANNEL | SPORT 2
+#EXTINF:-1 tvg-id="Premier CHANNEL | SPORT 2.ie" group-title="CHANNEL | SPORT" tvg-logo="https://iili.io/d9i4tHv.png", PREMIER SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium550/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-1-ro.png", PRIMA CHANNEL | SPORT 1
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-1-ro.png", PRIMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium583/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Prima Sport 2" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-2-ro.png", PRIMA CHANNEL | SPORT 2
+#EXTINF:-1 tvg-id="Prima Sport 2" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-2-ro.png", PRIMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium584/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Prima Sport 3" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-3-ro.png", PRIMA CHANNEL | SPORT 3 
+#EXTINF:-1 tvg-id="Prima Sport 3" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-3-ro.png", PRIMA SPORT 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium586/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Prima Sport 4" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-4-ro.png", PRIMA CHANNEL | SPORT 4
+#EXTINF:-1 tvg-id="Prima Sport 4" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-4-ro.png", PRIMA SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium585/playlist.m3u8
 
-#EXTINF: -1 tvg-name="PTV CHANNEL | SPORT HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="CHANNEL | SPORT", PTV CHANNEL | SPORT HD
+#EXTINF: -1 tvg-name="PTV CHANNEL | SPORT HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="CHANNEL | SPORT", PTV SPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium450/playlist.m3u8
@@ -23052,13 +22988,13 @@ https://canale.mizhls.ru/lb/premium450/playlist.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-name="CHANNEL | SPORT18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="CHANNEL | SPORT", CHANNEL | SPORT18 1 HD
+#EXTINF: -1 tvg-name="CHANNEL | SPORT18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="CHANNEL | SPORT", SPORT18 1 HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400803728.m3u8
 
 #EXTINF: -1 tvg-name="Ten Cricket" group-title="CHANNEL | SPORT", Ten Cricket
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201956.m3u8
 
-#EXTINF: -1 tvg-name="Ten CHANNEL | SPORT HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="CHANNEL | SPORT", Ten CHANNEL | SPORT HD
+#EXTINF: -1 tvg-name="Ten CHANNEL | SPORT HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="CHANNEL | SPORT", Ten SPORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium741/playlist.m3u8
@@ -23093,17 +23029,17 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-CHANNEL | SPORT-1-evraziya-ie.png" group-title="CHANNEL | SPORT", SETANTA CHANNEL | SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-CHANNEL | SPORT-1-evraziya-ie.png" group-title="CHANNEL | SPORT", SETANTA SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-CHANNEL | SPORT-1-evraziya-ie.png" group-title="CHANNEL | SPORT", SETANTA CHANNEL | SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-CHANNEL | SPORT-1-evraziya-ie.png" group-title="CHANNEL | SPORT", SETANTA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-CHANNEL | SPORT-2-evraziya-ie.png" group-title="CHANNEL | SPORT", SETANTA CHANNEL | SPORT 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-CHANNEL | SPORT-2-evraziya-ie.png" group-title="CHANNEL | SPORT", SETANTA SPORT 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 
@@ -23143,59 +23079,59 @@ https://canale.mizhls.ru/lb/premium461/playlist.m3u8
 https://canale.mizhls.ru/lb/premium575/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="CHANNEL | SPORT", Sky CHANNEL | SPORT FOOTBALL
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="CHANNEL | SPORT", Sky SPORT FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium35/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="CHANNEL | SPORT", Sky CHANNEL | SPORT MAIN EVENT 
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="CHANNEL | SPORT", Sky SPORT MAIN EVENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium38/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTMix.uk" tvg-logo="https://i.ibb.co/Fg5SKyD/skymix.png" group-title="CHANNEL | SPORT", Sky CHANNEL | SPORT MIX
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTMix.uk" tvg-logo="https://i.ibb.co/Fg5SKyD/skymix.png" group-title="CHANNEL | SPORT", Sky  SPORT MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium449/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTPremierLeagueHD.uk" tvg-logo="https://iili.io/Jpw0blp.png" group-title="CHANNEL | SPORT", Sky CHANNEL | SPORT PL 
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORTPremierLeagueHD.uk" tvg-logo="https://iili.io/Jpw0blp.png" group-title="CHANNEL | SPORT", Sky  SPORT PL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium130/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT 2 NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png" group-title="CHANNEL | SPORT", Sky SPORT 2 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium589/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 1 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT 3 NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 1 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png" group-title="CHANNEL | SPORT", Sky SPORT 3 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=590
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT 4 NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png" group-title="CHANNEL | SPORT", Sky SPORT 4 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=591
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 5 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT 5 NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 5 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png" group-title="CHANNEL | SPORT", Sky SPORT 5 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=592
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 6 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT 6 NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 6 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png" group-title="CHANNEL | SPORT", Sky SPORT 6 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=593
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 7 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT 7 NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT 7 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png" group-title="CHANNEL | SPORT", Sky SPORT 7 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium594/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT EPL NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png" group-title="CHANNEL | SPORT", SkyCHANNEL | SPORT EPL NZ
+#EXTINF:-1 tvg-id="SkyCHANNEL | SPORT EPL NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png" group-title="CHANNEL | SPORT", Sky SPORT EPL NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium595/playlist.m3u8
@@ -23308,7 +23244,7 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-1-uk.png",TNT CHANNEL | SPORT 1
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-1-uk.png",TNT SPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23316,7 +23252,7 @@ https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.m
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT2.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-2-uk.png",TNT CHANNEL | SPORT 2 
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT2.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-2-uk.png",TNT SPORT 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23325,7 +23261,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-3-uk.png",TNT CHANNEL | SPORT 3
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-3-uk.png",TNT SPORT 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23333,7 +23269,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-4-uk.png",TNT CHANNEL | SPORT 4
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-4-uk.png",TNT SPORT 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23342,7 +23278,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT5.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-5-uk.png",TNT CHANNEL | SPORT 5
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTCHANNEL | SPORT5.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-CHANNEL | SPORT-5-uk.png",TNT SPORT 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23489,7 +23425,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/110613.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_CHANNEL | SPORT_in_1_hindi.png" group-title="CHANNEL | SPORT",Star CHANNEL | SPORT 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_CHANNEL | SPORT_in_1_hindi.png" group-title="CHANNEL | SPORT",Star SPORT 1
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -23497,7 +23433,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-CHANNEL | SPORT-2-hk-in.png" group-title="CHANNEL | SPORT",Star CHANNEL | SPORT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-CHANNEL | SPORT-2-hk-in.png" group-title="CHANNEL | SPORT",Star SPORT 2
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/239.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -23505,7 +23441,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/239.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-CHANNEL | SPORT-3-hk-in.png" group-title="CHANNEL | SPORT",Star CHANNEL | SPORT 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-CHANNEL | SPORT-3-hk-in.png" group-title="CHANNEL | SPORT",Star SPORT 3
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -23529,7 +23465,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148801.ts
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400803728.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-CHANNEL | SPORT-pk.png" group-title="CHANNEL | SPORT",Ptv CHANNEL | SPORT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-CHANNEL | SPORT-pk.png" group-title="CHANNEL | SPORT", SPORT
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201958.m3u8
 
 
