@@ -20397,7 +20397,7 @@ not information code
 
 # --- Timnas Indonesia ---
 
-#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI PIALA DUNIA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",KUALIFIKASI PIALA DUNIA
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI PIALA DUNIA;CHANNEL | SPORT INDO",MNC Sports (Sportstars)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20757,6 +20757,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 
 
 =========================================== CHANNEL | MUSIC ===========================================
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
