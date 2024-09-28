@@ -20421,16 +20421,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 
 
 
-EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="CHANNEL | SPORT INDO",SPOTV 1
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xIrWp51hyiKyfD2NM3KxbE
-#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="CHANNEL | SPORT INDO",SPOTV 2
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX068KAbXmypJmxN4nk0sLTnc
-#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkU02uyRa7ztrVnDBwEXFGvw00H9ZRmc5YnXXVg_6iJJY.png" group-title="CHANNEL | SPORT INDO",SOCCER CHANNEL
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0zEldvjJhp_sm1wO4mUQ3Iw
-
-
-
-
 
 
 
@@ -22095,7 +22085,7 @@ https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xPZO68S8pSwNPD4VaI-1_s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIC TV🔻
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIC TV
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
@@ -24408,7 +24398,7 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?app_type=web&amp;userid=lite&amp;chname=K-PLUS_HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png" group-title="CHANNEL | KOREA",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="Channel Korea",TVN (Vision+)
+#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="CHANNEL | KOREA",TVN (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -25592,13 +25582,13 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV🔻
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
 http://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV🔻
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
 http://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -25616,7 +25606,7 @@ http://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV🔻
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV
 http://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="CHANNEL | CHINA", Macau TV
