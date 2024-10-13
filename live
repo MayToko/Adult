@@ -21101,7 +21101,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 group-title=CHANNEL | INDONESIA" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
@@ -21269,9 +21269,6 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.Newssatumedia.com/Newssatu/B1World_manifest.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://s.id/mtatvhd
 
 #EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png" group-title="CHANNEL | INDONESIA",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
