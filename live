@@ -20810,7 +20810,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | MUSIC
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | BEIN SPORT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -20895,7 +20894,7 @@ https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
 #EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065?ops=fit(480%2C480)",IHeart 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982",IHeart 90s
+#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982",IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CHANNEL | MUSIC" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 80s 🇬🇧
@@ -20959,7 +20958,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee16331
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="CHANNEL | MUSIC",Vevo '80s
 https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD300012YC.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="CHANNEL | MUSI",Vevo '90s
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="CHANNEL | MUSIC",Vevo '90s
 https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBD3000133M.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="CHANNEL | MUSIC",Vevo 2010s
@@ -24712,11 +24711,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="LIVE | BRI LIGA 1;LIVE | KUALIFIKASI U20",Indosiar BRI Liga Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILl7aEnRaxnUIxBYYj2eez54
-https://chiva.my.id/sc/avid/play.m3u8?id=205&type=hls
 
 
 
@@ -25154,6 +25148,85 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m
 
 
 
+
+
+
+
+===China provinsi 🇨🇳===
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+#https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1725449052-267c8f8da0f5430795dd6267e77f70cd-0-47d3b5e0da292c43e36ba7d8041bdafc
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
+http://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
+http://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", SHANGHAI DRAGON TV V+
+http://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", XINGKONG TV V+
+#http://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV V+
+http://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="CHANNEL | CHINA", Macau TV
+http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="CHANNEL | CHINA",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="CHANNEL | CHINA",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="CHANNEL | CHINA",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="CHANNEL | CHINA",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="CHANNEL | CHINA",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="CHANNEL | CHINA",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="CHANNEL | CHINA",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="CHANNEL | CHINA",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://pic2.zhimg.com/v2-40832854e8708785bc2274313bc214d9_b.jpg",黑龙江卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://yt3.googleusercontent.com/pvz3eTqcqkA5HEPLMLsadSQ6fkiLF91DN01oVvlZl0ALSh5MEpMf4KSxj5uBASwj3e04V8ffgw=s900-c-k-c0x00ffffff-no-rj", 湖北卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png",江西卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a2/Xiamen_Star_Logo.png",厦门卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://p1-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/9a4f88f1faa749f39e3911b082800a9b~tplv-mlhdmxsy5m-resize-w:750.image",贵州卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://p6-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/d0e63dd3e0884d00914757c038ff3725~tplv-mlhdmxsy5m-resize-w:750.image",四川卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190819_226283a7e732gdbbid05453ae4ff9_240x150.jpg",海南卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://www.baishu10.com/upload/baike/2023/0421/6b7e9e3d.jpg",北京纪实科教
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png",北京卡酷少儿
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbccqC1UK1wxShwWL7bCpLXCycNHA_iOPMDcWad2XaRcjL19ec-x1rhscgQdqtDv-aAg&usqp=CAU",北京体育休闲
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/Doc_Channel.jpg",上海纪实人文
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",哈哈炫动
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://p1-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/9b41d28e8a454792bc14fe78461c537a~tplv-mlhdmxsy5m-q75:0:0.image",山东教育卫视
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/Aniworld_logo.png",金鹰卡通
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://n.sinaimg.cn/games/crawl/172/w500h472/20220727/48b6-febbe7ffb0f4d8ac8739ef6816d5425b.png",哒啵电竞
 
 
 
