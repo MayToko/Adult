@@ -23312,7 +23312,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/o
 #EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="CHANNEL | SPORTS", Sports18 1 HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400803728.m3u8
 
-#EXTINF: -1 tvg-name="Ten Cricket" group-title="SPORTS", Ten Cricket
+#EXTINF: -1 tvg-name="Ten Cricket" group-title="CHANNEL | SPORTS", Ten Cricket
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201956.m3u8
 
 #EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="CHANNEL | SPORTS", Ten Sports HD
@@ -24365,7 +24365,7 @@ https://canale.mizhls.ru/lb/premium400/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium401/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS", LIVE 09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIVE | LIGA INGGRIS", LIVE 09
 http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="LIVE | LIGA INGGRIS", LIVE 10
@@ -24757,6 +24757,8 @@ https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 <================ Korean Channels ===================>
 
 
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KOREA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="CHANNEL | KOREA",Ebs 1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="CHANNEL | KOREA",Ebs 2
@@ -25026,6 +25028,8 @@ https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SONY SPORT
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -25077,7 +25081,11 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
 ---YUEFSI----
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="CHANNEL | SPORT;EVENT | UFC", Unifi (UFC live) 
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",EVENT | UFC
+
+
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="CHANNEL | SPORTS;EVENT | UFC", Unifi (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
