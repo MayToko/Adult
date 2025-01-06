@@ -22035,11 +22035,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 ========== BRI LIGA 1 ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | LIGA TARKAM
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIVE | LIGA TARKAM", INDOSIAR 1
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎INDOSIAR" tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="LIVE | LIGA TARKAM",INDOSIAR
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="LIVE | LIGA TARKAM", INDOSIAR alt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 
