@@ -21763,13 +21763,13 @@ http://iptv12k.com:35461/654321/123456/1891
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family MOVIE" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="CHANNEL | HBO GRUB",HBO Family
 http://iptv12k.com:35461/654321/123456/1890
 
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="SIN-HBO Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="CHANNEL | HBO GRUB",SIN-HBO Hits
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="SIN-HBO Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="CHANNEL | HBO GRUB",HBO Hits
 http://iptv12k.com:35461/654321/123456/1889
 
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="CHANNEL | HBO GRUB",HBO Hits 
 http://iptv12k.com:35461/654321/123456/1888
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="SIN-HBO Signature MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="CHANNEL | HBO GRUB",SIN-HBO Signature MOVIE
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="SIN-HBO Signature MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="CHANNEL | HBO GRUB",HBO Signature MOVIE
 http://iptv12k.com:35461/654321/123456/1887
 
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my MOVIE" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="CHANNEL | HBO GRUB",HBO Signature
@@ -21784,7 +21784,14 @@ http://iptv12k.com:35461/654321/123456/1893
 #EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD MOVIE" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="CHANNEL | HBO GRUB",HBO 
 http://iptv12k.com:35461/654321/123456/1892
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="CHANNEL | HBO GRUP",ID: HBO {BEST}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CHANNEL | HBO GRUP",ID: HBO Family {BEST}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="CHANNEL | HBO GRUP",ID: HBO Hits {BEST}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="CHANNEL | HBO GRUP",ID: HBO Signature {BEST}
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
 
 
 
