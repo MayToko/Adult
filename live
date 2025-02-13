@@ -23117,7 +23117,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8
 
-#EXTINF:-1 tvg-id="SkySports 3 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png" group-title="SPORTS", SkySPORTS 3 NZ
+#EXTINF:-1 tvg-id="SkySports 3 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png" group-title="CHANNEL | SPORT", SkySPORTS 3 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8
@@ -23336,17 +23336,7 @@ https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="CHANNEL | SPORT",TRUE PREMIER 4
 https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="CHANNEL | SPORT",TRUE SPORT 2
-https://iptv2.wirdy.workes.dev/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="CHANNEL | SPORT",TRUE SPORT 3
-https://iptv2.wirdy.workes.dev/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="CHANNEL | SPORT",TRUE SPORT 4
-https://iptv2.wirdy.workes.dev/4/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="CHANNEL | SPORT",TRUE SPORT 5
-https://iptv2.wirdy.workes.dev/02_sport5_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="CHANNEL | SPORT",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -24254,7 +24244,7 @@ https://windnew.iosplayer.ru/wind/premium472/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="UCL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", UCL 12
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="LIVE | UCL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", UCL 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://top2new.iosplayer.ru/top2/premium583/mono.m3u8
@@ -26804,11 +26794,4 @@ https://canale.mizhls.ru/lb/premium290/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BASKET
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="LIVE | BASKET",NBA TV HD 
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/13222
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="LIVE | BASKET",NBA TV
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298558
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="LIVE | BASKET",Sky Sport NBA
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1047
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="LIVE | BASKET",SPORT TV NBA
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/2051
+
