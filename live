@@ -22038,7 +22038,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 
 ########################
-######## CHANNEL | RELIGI ########
+######## CHANNEL | RELIGI #######
 ########################
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | RELIGI
 
@@ -22403,6 +22403,18 @@ https://canale.mizhls.ru/lb/premium397/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium664/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 =========================================== SPORTS======================================================
@@ -23964,6 +23976,9 @@ https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
 
 
 
+
+
+
 ======================= LIVE | LIGA INGGRIS ====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | LIGA INGGRIS
 
@@ -24152,6 +24167,10 @@ https://dokko1new.iosplayer.ru/dokko1/premium99/mono.m3u8
 
 
 
+
+
+
+
 =========================================== CHANNEL | INDIA ===========================================
 
 
@@ -24208,10 +24227,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="CHANNEL | INDIA",BFLIX MOVIES
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7099
-
-
-====================== INDIA 2 ===============================
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="CHANNEL | INDIA",ZEE ACTION
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7383
