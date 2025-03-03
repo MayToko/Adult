@@ -25405,11 +25405,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KskSH2F/NATIONAL-GEOGRAPHIC.png" group-title="CHANNEL | VISION+", NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFmJTZN/NATGEO-WILD.png" group-title="CHANNEL | VISION+", NATGEO WILD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -25798,6 +25793,22 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png",Lingua Channel
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="CHANNEL | KNOWLEDGE",Dens Learning
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="CHANNEL | KNOWLEDGE",National Geographic
+http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="CHANNEL | KNOWLEDGE",National Geographic Wild
+http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="CHANNEL | KNOWLEDGE",National Geographic Asia
+http://vipkjbw.top:8080/live/VIP0192170801043953/c3448c66c871/34667.ts
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="" tvg-logo="https://iili.io/d9HE0l9.png" group-title="CHANNEL | KNOWLEDGE",DMAX
+http://vipkjbw.top:8080/live/VIP0192170801043953/c3448c66c871/1788.ts
+
+
+
 
 
 //========================================================================
