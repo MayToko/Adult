@@ -21298,21 +21298,23 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png " group-title="CHANNEL | INDONESIA ",PONTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="MTATV.id" tvg-name="MTA TV" tvg-logo="https://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png" group-title="CHANNEL | INDONESIA",MTA TV
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
-
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="CHANNEL | INDONESIA",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="CHANNEL | INDONESIA",CNN Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 
 
@@ -28733,44 +28735,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTV
 
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv.png" group-title="CHANNEL | SPORTV",SporTV 1 4K
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/151042
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD" tvg-logo="https://loopstatic.net/sportv1.png" group-title="CHANNEL | SPORTV",SporTV 1 FHD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83814
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [Alt]" tvg-logo="https://loopstatic.net/sportv1.png" group-title="CHANNEL | SPORTV",SporTV 1 FHD [Alt]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/147688
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 FHD [H265]" tvg-logo="https://i.imgur.com/1CLMaU0.png" group-title="CHANNEL | SPORTV",SporTV 1 FHD [H265]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83416
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD" tvg-logo="https://loopstatic.net/sportv1.png" group-title="CHANNEL | SPORTV",SporTV 1 HD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83257
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 HD [Alt]" tvg-logo="https://loopstatic.net/sportv1.png" group-title="CHANNEL | SPORTV",SporTV 1 HD [Alt]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/147689
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 1 SD" tvg-logo="https://loopstatic.net/sportv1.png" group-title="CHANNEL | SPORTV",SporTV 1 SD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83623
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="https://loopstatic.net/sportv2.png" group-title="CHANNEL | SPORTV",SporTV 2 FHD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83815
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [Alt]" tvg-logo="https://loopstatic.net/sportv2.png" group-title="CHANNEL | SPORTV",SporTV 2 FHD [Alt]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/147684
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv2.png" group-title="CHANNEL | SPORTV",SporTV 2 FHD [H265]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83414
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://loopstatic.net/sportv2.png" group-title="CHANNEL | SPORTV",SporTV 2 HD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83255
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD [Alt]" tvg-logo="https://loopstatic.net/sportv2.png" group-title="CHANNEL | SPORTV",SporTV 2 HD [Alt]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/147685
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 SD" tvg-logo="https://loopstatic.net/sportv2.png" group-title="CHANNEL | SPORTV",SporTV 2 SD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83624
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="https://loopstatic.net/sportv3.png" group-title="CHANNEL | SPORTV",SporTV 3 FHD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83816
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [Alt]" tvg-logo="https://loopstatic.net/sportv3.png" group-title="CHANNEL | SPORTV",SporTV 3 FHD [Alt]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/147686
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sportv3.png" group-title="CHANNEL | SPORTV",SporTV 3 FHD [H265]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83415
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://loopstatic.net/sportv3.png" group-title="CHANNEL | SPORTV",SporTV 3 HD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83256
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD [Alt]" tvg-logo="https://loopstatic.net/sportv3.png" group-title="CHANNEL | SPORTV",SporTV 3 HD [Alt]
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/147687
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 SD" tvg-logo="https://loopstatic.net/sportv3.png" group-title="CHANNEL | SPORTV",SporTV 3 SD
-http://nhflix.xyz:80/5at2dmrmim/ociagr5d6p/83625
+
 
 
 
