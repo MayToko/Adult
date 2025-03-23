@@ -21150,6 +21150,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CHANNEL | INDONESIA",ID: INDOSIAR ( LIVE 2 )
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
+
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22145,7 +22148,8 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mp
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="LIVE | LIGA TARKAM",ID: INDOSIAR ( LIVE 2 )
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 
 
 
@@ -28560,20 +28564,24 @@ https://dokko1new.iosplayer.ru/dokko1/premium99/mono.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | ESPN
 
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9077abd6402f65b78b66f0a1fa79c0cd.png" group-title="CHANNEL | ESPN",CO: ESPN
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/295642
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0b85729cd212b1cc4d23ffadad19f9e.png" group-title="CHANNEL | ESPN",CO: ESPN 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/273212
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0bc67a3ca3b778cea017d25060ac86cd.png" group-title="CHANNEL | ESPN",CO: ESPN 3
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/295641
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0d513d16eccae18d3668ac09a6dc3613.jpg" group-title="CHANNEL | ESPN",CO: ESPN 4
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/298683
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | ESPN",CO: ESPN 5
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/303970
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | ESPN",CO: ESPN 6
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/303971
-#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | ESPN",CO: ESPN 7
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/303972
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="CHANNEL | ESPN",LA: ESPN
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/5779
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png" group-title="CHANNEL | ESPN",LA: ESPN 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3031
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png" group-title="CHANNEL | ESPN",LA: ESPN 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/3032
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg" group-title="CHANNEL | ESPN",LA: ESPN 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295304
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | ESPN",LA: ESPN 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/303752
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | ESPN",LA: ESPN 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/303751
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-03/c25ee2a48dddeabeefda9033287e7455.svg" group-title="CHANNEL | ESPN",LA: ESPN 7
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306506
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png" group-title="CHANNEL | ESPN",LA: ESPN Deportes
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/6446
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/cca0ccf3a4faf81373bb8b9233594421.png" group-title="CHANNEL | ESPN",LA: ESPN Premium
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306507
 
 
 
