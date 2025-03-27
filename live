@@ -20545,30 +20545,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",Bein Sports 1
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd|referer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",Bein Sports 2
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd|referer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",Bein Sports 3
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd|referer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 
 
@@ -21119,23 +21096,16 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HD
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1wQZjD/trans-7-tv.png" group-title="CHANNEL | VISION+", TRANS 7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=CubMu/1.5.8 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 *********************************************EMTEX**************************************************
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | INDONESIA",INDOSIAR 
@@ -22535,30 +22505,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yemmFvdd_t5QMChqlgqyM78FHxvPW2EZqg&s" group-title="CHANNEL | SPORTS", CYTAVISION 2
@@ -28613,32 +28560,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | BEIN SPORT
  
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beINSports 1 (VISION+) 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports2" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beINSports 2 (VISION+) 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports3" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beINSports 3 (VISION+) 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports5" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beINSports 5 (VISION+) 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
-
-
 
 #EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
