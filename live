@@ -20432,7 +20432,26 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="CHANNEL | SPORT INDO",ID: beIN Sports 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295289
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="CHANNEL | SPORT INDO",ID: beIN Sports 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306458
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="CHANNEL | SPORT INDO",ID: SpoTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165105
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="CHANNEL | SPORT INDO",ID: SpoTV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298506
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="CHANNEL | SPORT INDO",ID: NBA TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298558
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="CHANNEL | SPORT INDO",ID: MNC Sports
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157589
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="CHANNEL | SPORT INDO",ID: MNC Sports 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298548
 
 -----------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="KUALIFIKASI PIALA DUNIA;CHANNEL | SPORT INDO", SPORTSTAR 1 V+
@@ -29256,7 +29275,89 @@ https://mhdtv.co.in/jio/stream.m3u8?id=488
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="CHANNEL | MOVIES",ID: AXN
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165079
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="CHANNEL | MOVIES",ID: Bioskop Indonesia
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: CCM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="CHANNEL | MOVIES",ID: CCM
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165103
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="CHANNEL | MOVIES",ID: Celestial Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165065
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="CHANNEL | MOVIES",ID: CinemaWorld
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="CHANNEL | MOVIES",ID: Citra Drama
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264748
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia Anak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="CHANNEL | MOVIES",ID: Dunia Anak
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264753
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia Lain" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="CHANNEL | MOVIES",ID: Dunia Lain
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298524
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | MOVIES",ID: ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | MOVIES",ID: ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | MOVIES",ID: ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | MOVIES",ID: ETV BIOSKOP 04
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | MOVIES",ID: FLIK
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="CHANNEL | MOVIES",ID: Galaxy
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264773
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="CHANNEL | MOVIES",ID: Galaxy Premium
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264774
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="CHANNEL | MOVIES",ID: My Cinema
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298553
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="CHANNEL | MOVIES",ID: My Cinema Asia
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298554
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="CHANNEL | MOVIES",ID: Rock Action
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298490
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="CHANNEL | MOVIES",ID: Rock Entertaiment
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298565
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="CHANNEL | MOVIES",ID: Thrill
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157580
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CHANNEL | MOVIES",ID: TVN
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/144886
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="CHANNEL | MOVIES",ID: TVN Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157596
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="CHANNEL | MOVIES",ID: Vision Prime
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197958
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="CHANNEL | MOVIES",ID: Warner TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157594
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="CHANNEL | MOVIES",ID: Zee Bioskop
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157584
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ZooMoo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="CHANNEL | MOVIES",ID: ZooMoo
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264751
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="CHANNEL | MOVIES",ID: Hits
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165085
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="CHANNEL | MOVIES",ID: Hits Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221947
 
 
 
