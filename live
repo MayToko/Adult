@@ -27730,10 +27730,26 @@ https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | BEIN SPORT
  
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",SEDANG DI UPDATE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="CHANNEL | BEIN SPORT",US: beIN Sports
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291592
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 2
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291593
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 3
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291594
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 4
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291595
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 5
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291596
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 6
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291597
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 7
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291598
 
 
 
