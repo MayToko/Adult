@@ -22375,6 +22375,8 @@ https://canale.mizhls.ru/lb/premium664/playlist.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="CHANNEL | SPORTS",BR: Premiere FC 1
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/304357
 
@@ -22435,56 +22437,38 @@ http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/290355
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="CHANNEL | SPORTS",ZA: SuperSport PSL
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/290356
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 1
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317469
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 2
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317470
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 3
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317471
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 3 Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/04c0022e713c886ddf275eed944d0a15.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 3 Premium
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317472
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 4
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317473
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 5
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317474
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7023fc92e934bffc62766072ad7b0d02.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 6
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317475
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/322021fc3fa230a288ac966a1b600955.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 7
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317476
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/67e73106daaa942dc325b486aa17d111.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 8
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317477
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/da40f0a92fdc53fd567f71858a0aae1d.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 9
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317478
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 1x2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png" group-title="CHANNEL | SPORTS",RS: Arena Sport 1x2
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317479
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7080764e6e3bb36c4c2cf7018076670a.png" group-title="CHANNEL | SPORTS",BIH: Arena Sport 1
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/302816
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 1 Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/3f49ed109214b84440ecebae4ccbbba4.png" group-title="CHANNEL | SPORTS",BIH: Arena Sport 1 Premium
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/302817
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 2 Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/cfaf43a33897d934b6b88c1ccf89271d.png" group-title="CHANNEL | SPORTS",BIH: Arena Sport 2 Premium
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/302818
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/137d2079bbf49782da7a364c8bb879fb.png" group-title="CHANNEL | SPORTS",BIH: Arena Sport 3
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/302819
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/20150316bc2d82a859c3af18566e5f1e.png" group-title="CHANNEL | SPORTS",BIH: Arena Sport 4
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/302820
-
-#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1fa675e6620c0ae5a8bf4f9d47e6b48d.png" group-title="CHANNEL | SPORTS",BIH: Arena Sport 5
-http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/302821
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="CHANNEL | SPORTS",HR: Arena Sport 1
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317325
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8540b09c6c9b9e4fe035d27166426736.png" group-title="CHANNEL | SPORTS",HR: Arena Sport 2
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317326
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/37f61d2b06d6d3ae0fd3d72f35ee378f.png" group-title="CHANNEL | SPORTS",HR: Arena Sport 3
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317327
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef9d0183b1ffd0b974331dcfe61fc406.png" group-title="CHANNEL | SPORTS",HR: Arena Sport 4
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317328
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/c0c30bf1d801dfbe422d0f51a31304e0.png" group-title="CHANNEL | SPORTS",HR: Arena Sport 5
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317329
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/39ce59ded26a6843304e3ca4404c597f.png" group-title="CHANNEL | SPORTS",HR: Arena Sport 6
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317330
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8d9ca9457428f300218cbaececaa3c67.jpg" group-title="CHANNEL | SPORTS",HR: Arena Sport 10
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317331
+#EXTINF:-1 tvg-id="" tvg-name="HR: Max Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/67da0ff1699bec193a3d4264c0fdb302.png" group-title="CHANNEL | SPORTS",HR: Max Sport 1
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317332
+#EXTINF:-1 tvg-id="" tvg-name="HR: Max Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS",HR: Max Sport 2
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317333
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png" group-title="CHANNEL | SPORTS",HR: Sport Klub 1
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317334
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f03f8c517a5e79b9e8e927180496370d.png" group-title="CHANNEL | SPORTS",HR: Sport Klub 2
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317335
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3ee32511f85cad4408168d2700fb53d7.png" group-title="CHANNEL | SPORTS",HR: Sport Klub 3
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317336
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/6dced90dd3378bb441466083f850e29b.jpg" group-title="CHANNEL | SPORTS",HR: Sport Klub 4
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317337
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/753a33149eb926e7492903efb13367f5.jpg" group-title="CHANNEL | SPORTS",HR: Sport Klub 5
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317338
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub FIGHT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bc89e1ef81ba352752194ae6d02d3af5.png" group-title="CHANNEL | SPORTS",HR: Sport Klub FIGHT
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317339
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sportska" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f38218991f3979bdcd26e2f94fa5b5fd.png" group-title="CHANNEL | SPORTS",HR: Sportska
+http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/317340
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="CHANNEL | SPORTS",MY: Astro SuperSport
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/303503
@@ -22764,25 +22748,25 @@ http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291590
 #EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports Wisconsin Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/76cb1345883ae670f46581d6ad782962.png" group-title="CHANNEL | SPORTS",US: Bally Sports Wisconsin Plus
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291591
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="CHANNEL | SPORTS",US: beIN Sports
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="CHANNEL | BEIN SPORT",US: beIN Sports
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291592
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="CHANNEL | SPORTS",US: beIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 2
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291593
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="CHANNEL | SPORTS",US: beIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 3
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291594
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title="CHANNEL | SPORTS",US: beIN Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 4
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291595
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="CHANNEL | SPORTS",US: beIN Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 5
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291596
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png" group-title="CHANNEL | SPORTS",US: beIN Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 6
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291597
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title="CHANNEL | SPORTS",US: beIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 7
 http://filex.tv:8080/5ginternatioal-5/Vd6pgxjm3h/291598
 
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports USA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png" group-title="CHANNEL | SPORTS",US: beIN Sports USA
