@@ -23918,43 +23918,42 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-#EXTINF:-1 tvg-id="ASTSUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="LIVE | LIGA INGGRIS", 124. Astro.PL.1
-http://iptv12k.com:35461/654321/123456/7990
+#EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="LIVE | LIGA INGGRIS",200. True Premiere Football 1
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://194.76.0.117:8070/live/test_acct/ohbo1veifa4AhD/162591.ts
 
+#EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="LIVE | LIGA INGGRIS",201. True Premiere Football 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://194.76.0.117:8070/live/test_acct/ohbo1veifa4AhD/162592.ts
 
+##EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="LIVE | LIGA INGGRIS",202. True Premiere Football 3
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+##https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="ASTSUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="LIVE | LIGA INGGRIS",125. Astro.P.L.2
-http://iptv12k.com:35461/654321/123456/7988
-
-#EXTINF:-1 tvg-id="ASTSUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="LIVE | LIGA INGGRIS",126. AstGrandstand
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
-
-#EXTINF:-1 tvg-id="ASTSUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="LIVE | LIGA INGGRIS",127. AstFootball
-http://www.geocities.ws/wahyuiptv/AstroFootBall.m3u8
-
-#EXTINF:-1 tvg-id="ASTSUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="LIVE | LIGA INGGRIS",128. AstSport Plus
-http://extraott.com:900/live/3162523972/3791698850/401600406.m3u8
-
-#EXTINF:-1 tvg-id="ASTSUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="LIVE | LIGA INGGRIS",129. AstBadminton
-http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="LIVE | LIGA INGGRIS", ASTPREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/8j83akcs2pet2acby9clo/astro-premier-league.m3u8?rlkey=216kkgmqjys5dvie1dd9u6nfx&st=t4rjm5rx
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="LIVE | LIGA INGGRIS", ASTPREMIER LEAGUE 2
-https://dl.dropboxusercontent.com/scl/fi/v62daschtmn6nf0ohhxjj/astro-premier-league-2.m3u8?rlkey=llelik9nx5wamydul7tuesld6&st=r2669uk9
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="LIVE | LIGA INGGRIS", ASTPREMIER LEAGUE 2
-http://tv.cloudcdn.me/live.ts?channelId=93740&uid=316&deviceMac=00:1A:79:01:04:AC
-http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
+##EXTINF: -1 tvg-id="True Premiere Football 4" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="LIVE | LIGA INGGRIS",203. True Premiere Football 4
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+##https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="LIVE | LIGA INGGRIS", ASTFOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
 
+#EXTINF:-1 tvg-ID="" tvg-name="ASTSUPERSPORT HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="LIVE | LIGA INGGRIS",ASTSPORT
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/556245
+#EXTINF:-1 tvg-ID="" tvg-name="ASTSUPERSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="LIVE | LIGA INGGRIS",ASTSPORT 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/556246
+#EXTINF:-1 tvg-ID="" tvg-name="ASTSUPERSPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="LIVE | LIGA INGGRIS",ASTSPORT 3
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/556248
+#EXTINF:-1 tvg-ID="" tvg-name="ASTSUPERSPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="LIVE | LIGA INGGRIS",ASTRSPORT 4
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1458912
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="LIVE | LIGA INGGRIS", UK: SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/w2jeu8kojqfsskksjnr5l/skysportspl.m3u8?rlkey=8gpod59u0o1npvdbk64p6sx5l
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="LIVE | LIGA INGGRIS", UK: SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/2me8p2rhz8t1gea8vkky2/skysportspl-2.m3u8?rlkey=dyccwxjkhpylrgbbenfqu9i36
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="LIVE | LIGA INGGRIS", CANAL+ PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
 
 
 
@@ -26080,20 +26079,69 @@ https://zekonew.koskoros.ru/zeko/premium51/mono.m3u8|referer=https://pkpakiplay.
  
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="CHANNEL | BEIN SPORT",US: beIN Sports
-http://superiptv.xyz:8080/tr0020/rP2qnnh94N/98925
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 1 EN
+https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlkey=515fu1im8yqziqmb4mbci0b94&st=g06sqoia
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 2
-http://superiptv.xyz:8080/tr0020/rP2qnnh94N/35730
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 2 EN
+https://dl.dropboxusercontent.com/scl/fi/42ewu9rmfbiy0ossufv34/beinen2.m3u8?rlkey=cfd01zjm09c53do9lx6alnzh6&st=zkvw65j8
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 3
-http://superiptv.xyz:8080/tr0020/rP2qnnh94N/6097
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 1
+https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 4
-http://superiptv.xyz:8080/tr0020/rP2qnnh94N/6098
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="CHANNEL | BEIN SPORT",US: beIN Sports 5
-http://superiptv.xyz:8080/tr0020/rP2qnnh94N/125936
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 2
+https://dl.dropboxusercontent.com/scl/fi/f9o439dl0z52ppfg5x60j/beinar2.m3u8?rlkey=r8ajkq6jfsnng5m8s9yxs8n41&st=2lr6qsa8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 3
+https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 4
+https://dl.dropboxusercontent.com/scl/fi/ex1wzlrpmsvin1ppv9uoo/beinar4.m3u8?rlkey=v9elvwy9r700jfi5qvfc8n3f1&st=akx2s6bq
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 5
+https://dl.dropboxusercontent.com/scl/fi/o603gu8jap2jn8a13ywi5/beinar5.m3u8?rlkey=3nq3xxdiyjl6ufzhc4ni9r957&st=stbcic79
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 6
+https://dl.dropboxusercontent.com/scl/fi/xa21c0age99dnpypd8og4/beinar6.m3u8?rlkey=ccemch038se1o9ri57cut2w1m&st=m8b0fahx
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 7
+https://dl.dropboxusercontent.com/scl/fi/xvy1p8bo4bkcd4na7s2ng/beinar7.m3u8?rlkey=tdtl5904wr6qlrbfmj8wu0zdp&st=bxejjfn9
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 8
+https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlkey=wahbp7q07dxr6khxgnmfrfqbu&st=3hy5nclh
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 9
+https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlkey=kbmouwhsa35pu5a701alljo9z&st=h99fkpab
 
 
 
