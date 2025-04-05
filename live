@@ -20459,6 +20459,74 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcda13dda3c/index.mpd
 
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg",Sportstar 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg " group-title="CHANNEL | SPORT INDO",NBA TV (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+
+==EDT
+
+#EXTINF:-1   tvg-logo="https://i.imgur.com/dWS3vWU.jpeg" group-title="CHANNEL | SPORT INDO",WWE NETWORK 1 ON
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uh5diMN.jpeg" group-title="CHANNEL | SPORT INDO",PSJ TV_🇲🇨
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO"  tvg-logo="https://i.imgur.com/mbW2EWt.jpeg",FIGHT SPORTS 1 ON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+#EXTINF:-1 tvg-id="60" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="CHANNEL | SPORT INDO", FIGHT SPORTS 2 ON
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjV1CwZB9SiSlsCGEIKnge2iTN7BAZpFL-bsJwuGAkgWZnqzc9pRZsB0&s=10" group-title="CHANNEL | SPORT INDO", MNC Sportstars 2 (WORTH)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjV1CwZB9SiSlsCGEIKnge2iTN7BAZpFL-bsJwuGAkgWZnqzc9pRZsB0&s=10",MNC Sportstar 3 (WORTH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="CHANNEL | SPORT INDO ", SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
+
+===
+=======11/2/2025
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNi3SmN5yyJEt1F7cFzGzqyAbo-Rkz1SWlgYvbl1DrDXT2WgjRhMUXgQ_6&s=10" group-title="CHANNEL | SPORT INDO",SPOTV (I)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title="CHANNEL | SPORT INDO",SPOTV 2 (I)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
 
 
 
