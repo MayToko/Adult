@@ -27470,256 +27470,395 @@ https://canale.mizhls.ru/lb/premium290/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDONESIA PREMIUM
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: ANIMAL PLANET
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Animax
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: AniPlus
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: ANTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Asian Food Network
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: AXN
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Baby TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="CHANNEL | INDONESIA PREMIUM",ID: Balikpapan TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Bandung TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: BBC Earth
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: BBC Lifestyle
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: beIN Sports 1
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: beIN Sports 3
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="CHANNEL | INDONESIA PREMIUM",ID: Berita Satu
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="CHANNEL | INDONESIA PREMIUM",ID: Berita Satu World
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop CHANNEL | INDONESIA PREMIUM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Bioskop CHANNEL | INDONESIA PREMIUM
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Boomerang
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Boomerang EN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Boomerang EN
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Cartoon Network
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CBeebies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: CBeebies
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Celestial Movies
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CGTN Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: CGTN Documentary
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Channel News Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Channel News Asia
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: CinemaWorld
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Cinemax
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Citra Dangdut
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNBC CHANNEL | INDONESIA PREMIUM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: CNBC CHANNEL | INDONESIA PREMIUM
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNN CHANNEL | INDONESIA PREMIUM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: CNN CHANNEL | INDONESIA PREMIUM
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Crime+ Investigation
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Da Ai TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Da Ai TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Discovery World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Discovery World
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Disney Channel
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Disney XD
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: DreamWorks
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia Anak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Dunia Anak
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia Lain" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Dunia Lain
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Ent
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Etv Bioskop
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Etv Bioskop 02
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Etv Bioskop 03
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Etv Bioskop 04
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: FLIK
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Galaxy Premium
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: GEM
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: GTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: HBO
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: HBO Family
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: HBO Hits
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: HBO Signature
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HGTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: HGTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hip Hip Horee!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Hip Hip Horee!
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: History
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Hits
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Hits Movies
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Horee!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Horee!
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Huma Betang TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Huma Betang TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hunan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Hunan TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: I Konser" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: I Konser
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: IDX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: IDX
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: IMC
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indi Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Indi Kids
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Indosiar
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: INews
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Insert" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Insert
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Izzah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Izzah TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Jak TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: JTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kids TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Kids TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Kompas TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Lifestyle & Fashion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Lifestyle & Fashion
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Metro TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MNC News
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MNC Sports
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MNC Sports 2
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MNC Sports 3
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MNC TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Moji
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MQTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MTA 7 Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MTA 7 Asia
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MTA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: MTA TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Music TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Music TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: My Cinema
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: My Cinema Asia
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: My Family
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Kidz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: My Kidz
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Net
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Nick Jr
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: nickelodeon
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Nusantara TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ONE" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: ONE
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Padang TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="CHANNEL | INDONESIA PREMIUM",ID: Padang TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Prambors" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Prambors
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Radar Cirebon TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Radio 51" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Radio 51
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: RCTI
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Rock Action
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Rock Entertaiment
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Rodja TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: SCTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SEA Today" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: SEA Today
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Sindonews TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Sindonews TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Smithsonian Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Smithsonian Channel
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: SpoTV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: SpoTV 2
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Tech Storm" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Tech Storm
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Tegar TV Lampung" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="CHANNEL | INDONESIA PREMIUM",ID: Tegar TV Lampung
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Thrill
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TLC
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Trans 7
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Trans TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TV 9 Nusantara
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TV One
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVKU
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVN
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVN Movies
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVRI
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Jawa Barat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVRI Jawa Barat
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Barat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVRI Kalimantan Barat
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Tengah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVRI Kalimantan Tengah
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Selatan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: TVRI Sulawesi Selatan
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: UG TV" tvg-logo="" group-title="CHANNEL | INDONESIA PREMIUM",ID: UG TV
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Usee Sport 1
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Usee Sport 2
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Vision Prime
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: Zee Bioskop
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ZooMoo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="CHANNEL | INDONESIA PREMIUM",ID: ZooMoo
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302328.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=1&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=1&type=dash
+ 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-id="MNCTV.id" tvg-logo="https://cdn.urfan.id/logo/mnctv.png",MNCTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=2&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=2&type=dash
+
+ 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-id="GTV.id" tvg-logo="https://cdn.urfan.id/logo/gtv.png",GTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=3&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=3&type=dash
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-id="iNews.id" tvg-logo="https://cdn.urfan.id/logo/inews.png",iNews HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=4&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=4&type=dash
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-id="SCTV.id" tvg-logo="https://cdn.urfan.id/logo/sctv.png",SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="CHANNEL | INDONESIA PREMIUM",SCTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+#http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="CHANNEL | INDONESIA PREMIUM",INDOSIAR
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA PREMIUM" tvg-id="Indosiar.id" tvg-logo="https://cdn.urfan.id/logo/indosiar.png",Indosiar HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="CHANNEL | INDONESIA PREMIUM",INDOSIAR HD
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", METRO TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
+ 
+#EXTINF:-1 tvg-id="7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTKuPVKXn_RBQ5ebV179yuSLUL_U3NWSo80n5SjEF420QzmQhyQZlz1fz_lOjIOLc0MXZfSnzUYddjzhGYy6WaoJm99hV2YZVmAd26zLuq65PwusxbnxUDR55FcxjKvNuOYMdz00HQGcWvmNt-5o9SK9bPynzFnA8l0CrZDlgxxK19tWIzKQm5hpwfWb3/s700/TVONE.png" group-title="CHANNEL | INDONESIA PREMIUM", TVONE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+ 
+#EXTINF:-1 tvg-id="14" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4S8ncj0jUU__dY6xhxtOLIcvsxg_8KuHKBkjcNi4u6t4ooU09mESxfGueK91oI5ErDNbOyP8dZobrjGCzTb7HfBVc0KexuXB5VP7ISiBz38Xvtrrt_Q8NNiGovWjkQiSaPqShp6ClbIEmKKexjTjB4i3-4vwKIHyKck-0nYaghChkd1r7GQqqerlDOp6F/s700/KOMPAS%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", KOMPAS TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
+ 
+#EXTINF:-1 tvg-id="80" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvNXbBTyT8O9f5tjeFrjxUQQ-StFbFnEOWofRETtGRlKKnxyjjT_9PTr6Ye5NPDwYu6EEacOxbkdrZYpc1cD1gtgStw9Sd24MnyMo5vMQ02BQeePI9Q4gi6faBXW2l3VHPvdH7Z9LcQM90MYKTf09zIV6M06aXAGreyvkH4WKduMpB0FDkUgJBLcc2To0h/s700/BTV.png" group-title="CHANNEL | INDONESIA PREMIUM", BTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png" group-title="CHANNEL | INDONESIA PREMIUM", ANTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
+ 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkUWeDK_ePgIPSNJvHTjIuhj5cl41oI-3CkPpcs0Oj3h6wnuCoZzYWB_gSeJ4OYNExDaNDHeiIepNZJl6De9RzxT0mKe9EvcpnGCn1WwZY4JTX_7WS3zi-HlHacDuK1i5im8j_X23iiD9V_rZSRXB9YoYpBHG-SIwTAIZ4eqKAbxnrFdtKdVhkrJ8BWbv/s700/NET.png" group-title="CHANNEL | INDONESIA PREMIUM", NET.
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
+ 
+#EXTINF:-1 tvg-id="22" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png" group-title="CHANNEL | INDONESIA PREMIUM", RTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
+
+#EXTINF:-1 tvg-id="122" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIiq33Yv0DpwFBtJj5CThGkSEqlKPUTw7IcOCkNXiydWpy_ApUbepJUc4173qDKCR9Z7iYzgodpA4eITvcI_YkugsZ7MbrOchIad9M6rLHn0vOirpxmpaUFM3i6_WfpE8-TKcQQS2Z_RmZi-iAdjgR43b9z8inKFo3YkbMsB7z9HWoYmtaOFPFJouoyWP/s700/MAGNA%20CHANNEL.png" group-title="CHANNEL | INDONESIA PREMIUM", MAGNA CHANNEL
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZeLn9zrgyV4eICZgu7HVcIdvpwx0Ge_h3EyA4qMe2WDNm1RBvS2okghirooRT9PsD_YgBY57TjFgLtVeKnF1Okq7uefETWh-DoLtUG9AoQqDGIs0TW-C9FjKXXS9nVPM3uPg_u1v75qmGFNHGb1xCpAwlNZ6u9ew1G6V78Q_54QzRHMb2ea4SP8cD_dAE/s700/DAAI%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", DAAI TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihsKHdqD3a0NaPimwL5lf-IP28vy8ZFsXQXVhCSLMeydln2BUl1NA7pOaVQnGRhdkPXHEcV2kW0dhTQudxVqrDAoepRrVdNf0oXuEh-FC1fLv2yUCrGMsxeuCibvEtZnrxko0-I6zoZyGiZlzhfvHuX9s2bxwS4E6o9fJIfgvsq0741NkgYkhflBAgzOWY/s700/ROCK%20ENTERTAINMENT.png" group-title="CHANNEL | INDONESIA PREMIUM", ROCK ENTERTAINMENT HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+ 
+#EXTINF:-1 tvg-id="44" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhxfUh2hy4Fy4lwOnG_xA2sAOI3E62X3FqWtJlusVUinR8Xzcvu69kIvudEuYrAzTglWoQaxtf6TILyC7j8m04jSndzI2EEG0n0KWlahkv2vOxhpdGvRJz3cewNeizPk-C0cyECip9MU0ph68_WSpEiwuGpMx_ytDQXKSq9E4SCD4OSdwDk93H288cD_7/s700/ROCK%20ACTION.png" group-title="CHANNEL | INDONESIA PREMIUM", ROCK ACTION HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
+ 
+#EXTINF:-1 tvg-id="49" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpFwMO21NwzZDdqXY4vlKZbMEG4X2DajrCPyspTmAQZfMtQat4_IdTaJbU_mdGE6fV2bPfcH2lJKRtt66-6jKh0fUw-y6s7cJVQ1YJxLYHtpbCPbMTB1y_GtJI8Liy1aBBPuogh4fIvwxvgudcXRMgXbPQDk30nL9et_sxnAynixOEeI1Yzt7nfLnIIHhD/s700/KIX.png" group-title="CHANNEL | INDONESIA PREMIUM", KIX HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+#EXTINF:-1 tvg-id="58" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlkVf8opmBsl3An-FC1dkN8LpgbEEPG5AIZzUkPTj6mih5ogV4MD84sS1RuA-oTft6TDH7iM0BPJYwxgT9_xdoQ1xO2ADkRD1UHam_55yjWfUxaGlQvhidM3o-NPriLcT6UBp1iGMC7V59PR7I3bB2XTU1hcEkRzev0_rQNGPSw2S60z-n6DTSb128mR_X/s700/TVN%20MOVIES.png" group-title="CHANNEL | INDONESIA PREMIUM", TVN MOVIES HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+ 
+#EXTINF:-1 tvg-id="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbqlCv-meezXKueW9Jmx0FvRy_HD3oXG1EeHS-cj9apuHqzH5iLHw4IQGV103YlTMMKU92w_qmPPcAo1ijPe7odtGyU8pQ-HVrb-3eFoal_JZQ5UuGvXO2p_-3LaTJxOtaCQ9u0sGH_2FfJFdRmqClQNNfd12ANB177NrUD_ZKwvKxJ6lVCKNItARXXWd/s700/CELESTIAL%20MOVIES.png" group-title="CHANNEL | INDONESIA PREMIUM", CELESTIAL MOVIES HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
+ 
+#EXTINF:-1 tvg-id="110" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhObBnJ_Yexi0zdjjszsKyU3dGZ9I4ItLsspdw-5XoSdXGohyXsuG6j2vc6KK5WJ2G2ZRtS7afxJskafx9NE8H2WlCb8w-PZq-wPy4BeEDLdK7FUypDeZW-AYazHPq-qlor1p1o8pfscX5psGPlYoXRUI6LDqHf8gg3p4kEZ7A_lT9o2wUyf0vEf3yVEHQI/s700/CCM.png" group-title="CHANNEL | INDONESIA PREMIUM", CCM (CELESTIAL CLASSIC MOVIES)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
+ 
+#EXTINF:-1 tvg-id="109" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYxNNGpIzvfgL3HWI97YXtH3NCTfrMBFxeHAHEoG-xVMVqQhoNYhxRT9ikI_iy2CyxzDE54oaZVPcFvFLIWj-p3Rrt2cWPgvTzBh_m-XHY7jTa_kIxuf1VVHpLgzxKfc9y7F1vWUAHdk2bhxgg5Vr5JRVSXo4jGYuGOf0G9gwf2uYISvvGkhUpCyAd6Op/s700/MY%20CINEMA%20HD.png" group-title="CHANNEL | INDONESIA PREMIUM", MY CINEMA ASIA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+ 
+#EXTINF:-1 tvg-id="55" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-HL8z9zbvdX3i_39v0K9qKvDPVZs6Lq63rV6bVZb5GrCwwcpf3MNxSljGlzWRFkwteC4nFmL4grYi2rghYhsOs756SOtP76U9WrX1y12kR_LB0GA6AZprwuuDw9TLPdYLI7ZbUtnkxe3nWnv0yC7FHwUv_ZNMdTKj7F2Q1LBmPlRxbmGeXvkXUYpzKM5/s700/THRILL.png" group-title="CHANNEL | INDONESIA PREMIUM", THRILL
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
+ 
+#EXTINF:-1 tvg-id="95" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidyK0VbQWzMlO25rGfRB4zbUWjg8RnoIq1GaCyZPzQ_wZUn5kfeT_vrUL1n-9ClOhGIDh3HGqY9iuUa_vJgGQWLUBnGX6XKs4WAEBUPO57sgRnyr2IbTAd91jf1Ojhq_h9wNpn1L42HwWRRGJUojEMrCoyijWpABCuVV6rn2JJ7_tnxxsQChnVZVfHRwMo/s700/MY%20CINEMA.png" group-title="CHANNEL | INDONESIA PREMIUM", MY CINEMA HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+ 
+#EXTINF:-1 tvg-id="92" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQR-mi-WH7mdA9RogvrNdu7N9HF1y6D8zSJJG4JLxPLkqcATjgutlcDCjKi4oMGew-IBP2n2ibnXKwl6T56etT-NgT_OWWCCKYMWolZI3X_BjA1N3m1I9UIxc0ErZbrAOZuEej4bEkUepIlriiqYib0yt-q_hssAQqjME4YxVqBCK_x5os4AQ1W_reYRvb/s700/MY%20CINEMA%20EUROPE.png" group-title="CHANNEL | INDONESIA PREMIUM", MY CINEMA EUROPE HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+ 
+#EXTINF:-1 tvg-id="114" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWXYl54W-rKISn3MO7t6KWFm083kGBvJ1w9vhYZ3LTmyHFOPV4pV3pcorDpWzlZtQCBFob23QEKijpKofDI52BVqSy71R4Y7fgHFmOdb0iwo2-UMGB35a2LuJRQXrAJWQVC30XPkvyVbOrTivhewMyYT7tWG9DSe7Xs_0sBybosR7QyUqtQfOILfzBAvm/s700/MY%20FAMILY%20CHANNEL.png" group-title="CHANNEL | INDONESIA PREMIUM", MY FAMILY CHANNEL
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZAKQT3js8_Uh-k75hGnHv9FQO7Q2o5mGB4jGQhVIfRz9nDVOtZSyP2H-wrNuyjp-IlLal2gCafuR6Q6w0ldltqe-OnVs-anrZ3lc88T6Z-47fQA2OabO4a81JXwUqpXFm2FIXAxz0pbpC-AjFl0EyHCnlB0HJiJBwfotHx5dj4qD5ELvuEgwdKSSeAu0g/s700/LIVE%20STREAMING%201.png" group-title="CHANNEL | INDONESIA PREMIUM", LIVE STREAMING 1
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Live_Streaming_1
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvPzWNOz8S8LW7Pbc2A6KS6KX8NFcFEcEbwM0-GYgsue6WX20suR9y88DEGHGlw7pDUp8BwnR-XrGDtCvKFHIBMo0h8R5Tw9TzMIpLALXuS0FoHCKRB4R-QLDQqKSN7et5Om_UHgOq3vOlswqRGfhuVWzK6R8YbTVFz7aWIcZLrIg4f0qzIL94utpAWxj/s700/DENS%20PLAY.png" group-title="CHANNEL | INDONESIA PREMIUM", DENSPLAY
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensPlay
+ 
+#EXTINF:-1 tvg-id="42" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNFwC7xLliDm-DUjXKufLVA4rIiqf-w6YiJmlqeVFkqeyqSBRe5QbxGp07ve2JHudbnmcCBxHJQPcTef86vOcPshyphenhyphenc5wEY0yD6QGYKd1wSfuk0X8yHQuCwCJQN3eHGDq5Jdu7f5amZY7yKCPVhOvaSiluK8meNLMwhBCjG_0GE6L5RtBuWTBqm-GbdPzP/s700/DENS%20LIFE%20&%20STYLE.png" group-title="CHANNEL | INDONESIA PREMIUM", DENSLIFE & STYLE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensLife_n_Style
+ 
+#EXTINF:-1 tvg-id="117" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZaGy7vzdoJFCCOgOSNqp7sdvy2D64Ha3733pwSb1nraHfM6aR_TfbIN_abD7sv2CIJLXjT-Fbq-emdhvRi1PrInm4U7l1mTqmHZcZWV2b7MXa75jfUWaZaQ5_lh2HKuLJgXaq8kXTMOkoL4ApVx-RYfRMaa903w5UgFHP2vJ-b8T3ZZgeMf2CAip-o_xJ/s700/DENS%20FOOD%20CHANNEL.png" group-title="CHANNEL | INDONESIA PREMIUM", DENSFOOD CHANNEL
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel
+ 
+#EXTINF:-1 tvg-id="102" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi710-WJpIHxb_8YyIXFiXHD3Nj3jNOTfU2SNgIB0fR5p9JQkHzICNV3jKmfZB6z9dobNLqejH2bfJTOdY-EHz422Zy8EXartElTpfP4VlyYBhzxC11T4PgGJ7WQrYl4HMnCVw-D3KSgCprjGUA3OsdMY3cGm6zA_2pv7lqWSdouOdq09anNCFqeNiOd4_Z/s700/DENS%20SHOWBIZ.png" group-title="CHANNEL | INDONESIA PREMIUM", DENSSHOWBIZ
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
+ 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZ3pOp0SBXsCwOfSieDCCpnl30dlBp8luDGJe6KgV_N5y6OiLMeXsklLwrkqKRO-3aWRfFW49jVPSiB_Y_ayssm0L-0xnfJbzgIQjdheLbLpoQMng2kFF21hX9nifDbgEdw4WrI0PqbtCQiFWTz1OuXBE6Ed_tNKWmJrDrt3BbmYjh4Z9Xh-G39BAe54v/s700/DENS%20KNOWLEDGE.png" group-title="CHANNEL | INDONESIA PREMIUM", DENSKNOWLEDGE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge
+ 
+#EXTINF:-1 tvg-id="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1rlYlBWnYri7K3cAc5nHHoJBg-XYrwqfSFDdipbUItIcEtspCtvvDBktFwMrHQ4JoqTpWnyKytxZT71NrUxIy5uGw410djMQ3BYTGCBrRDDHzvbFLTmaSRXyPfYRmQX1tTiNfOnVjX18LrsdH98hRWoeG2L0OZfJZIOMgj58sebdHdXfRzeluLaiJu2v/s700/NADOO%20COMMERCE.png" group-title="CHANNEL | INDONESIA PREMIUM", NADOO COMMERCE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NaDoo_Commerce
+
+#EXTINF:-1 tvg-id="131" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJPw6CSzM4f8oZEPGwWiBSX72Wjtyuw31Xk2eYiZZJ1UY9ClHQR32_1Iz-ydVYZzddqiOvizehWNxBfEoKYOhUSaXJdyx8SQ3v2tR2dweZEIratNBGScU1attIezelHXqW8ZPrJN6cTscRo4ZopC3OXEn_QQK9m_EZWEzVfkTPzZfFaWH6_W4LPaWay4Pt/s700/IDTV.png" group-title="CHANNEL | INDONESIA PREMIUM", IDTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h200/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=IDTV
+
+#EXTINF:-1 tvg-id="94" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG2WvC9bALmj22rGL51gKvCkcsvxvJhAzyakAMLfFwxruhQKS3XZGUJM971tPWweL-IGLQ6wbvDNaJqw-0-IIa0HuRfFQhv86kSsK0NVIeOGFQ6-SOPAnuyfoEbH_qgDG1-Gcve91zvq7DWJtbqFyJnNtNQqWKPMDwFbfXZzSU-WlMCj6pmCm2Trhiu2Ba/s700/ELSHINTA%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", ELSHINTA TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV
+ 
+#EXTINF:-1 tvg-id="118" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnHtM20QGYDSezSI9xCQzo6-G5Zo0cNSPasC9gVLq7TMH7G7jurfiI9vXlpsjcSVp5s3UCQ7WCpTL9qXPVghiAHoezld19CXUDTos4vFlrdLUPksQN3OAYsCN7sXnSRZTPD_fj9pNrV5kw8KvCC_QNTAp0NNgBCu2mEQ3qVXEuGtAWLwdzWj396LBzBdol/s700/TVRI%20SPORT.png" group-title="CHANNEL | INDONESIA PREMIUM", TVRI SPORT
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport
+ 
+#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="CHANNEL | INDONESIA PREMIUM", TVRI
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
+ 
+#EXTINF:-1 tvg-id="112" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHeMK9FOOmJHycgNIMb_zs3VYiWZgfnd7k2igJ7m4ai4mKdQ4IStBme19J_LRqEN5dCTgZysSm56EXcMPOL2b0aSVoSmQJ-RnksFjPc2kyAIMRd7BA8CTk0jfkqWU8g27ZmVyD7yY0D1vr_2jKAStd5ZJUUn79YEG9hoQgXRAgmIxlHhFDmSDVkdIxzqz_/s700/JAKTV.png" group-title="CHANNEL | INDONESIA PREMIUM", JAK TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
+
+
+
+ 
+#EXTINF:-1 tvg-id="21" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbvZlNKfEnHh1qEmTjEKC5a5UFPg1cxsQbTWyKf3bYn9oFi_DCFrUNbf9Duqthu_iO5rCrMCFrUGr6HHn9-3OCGAC4q7RuISkahODarJGM91CxkPrWREM3EoPas5BLHWMHebB0XMUECufPhn43N_DwdDdyzfTRg7WPa1nbIC_bLelkEz0qAMVLllE9FboQ/s700/RODJA.png" group-title="CHANNEL | INDONESIA PREMIUM", RODJA TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
+ 
+#EXTINF:-1 tvg-id="38" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuSnBpTGSfMBR7wZMAueKtHv-bKgDX0w06BrOE3WcK9LAUrRDfBvXGRYs_RDXgsQSYdjHlSjfet16LZKaqdIMAgTuO0l6WBgeB9J5wa9zLpLABC9psc0sydyaJqQvCCtgg3qj2YKGb0BrQKIXYWteVrpOyG9h1QY-Sf6jXSiB3xyie0sCqBfpiNPbJpUr/s700/ANIPLUS.png" group-title="CHANNEL | INDONESIA PREMIUM", ANIPLUS HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
+ 
+#EXTINF:-1 tvg-id="96" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png" group-title="CHANNEL | INDONESIA PREMIUM", MY KIDZ HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
+ 
+#EXTINF:-1 tvg-id="133" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0V0_szPT-E4WQQi1TXunXFSsl32ZHExsJE0Ybxv-VSfCxEtn66rfivbz5nfkuhfraTw0UzoMgSsj9oTYcIhWVzcjX8LsbRejJrR9psVi52zlSPy6OqNysSNDhBKpJWGPVf053VJHZ_rZ45A2XLaIYDijgahOGxwEDO_3nWzOOISlpL68y8Rb1xOVr5J4D/s700/KBS%20KOREA.png" group-title="CHANNEL | INDONESIA PREMIUM", KBS KOREA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-
+ 
+#EXTINF:-1 tvg-id="134" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqizSohpY9akqwu7tOJis-fD1Z5hwtLjZV8UvBr3IuGLgbhyLEmWd303vgLxubh-Om5W0E6oP1Xt2lTodAKsNXyd5gjUNzwaotJeaGvIcBS_EIH58Umxo40fZuGD7hAUXkjo3hWK3fXfqDbZ8jvYwBgXUhFtlTum4mSdsuhe3b2kPWDO7aztA2aPZpSpA/s700/KBS%20WORLD.png" group-title="CHANNEL | INDONESIA PREMIUM", KBS WORLD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-
+ 
+#EXTINF:-1 tvg-id="100" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvFD25_tW-pzEnmZW4RO95laNwdijQiibNPAiyjZfQbBTOuE7Cx2sJhLWF14JflO52nNYNbVGgIaPGVq2Sx2eHu7rpVhvGs8Gg2-L3uMcy9xxisUCEtMIUTmoXbQpO_N94giS6M-AVBzGyZBBYHKFgfmAegpHUkK47l5L8XmEDMm0uA8P9yFDCwQjVHaa/s700/K+.png" group-title="CHANNEL | INDONESIA PREMIUM", K-PLUS HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
+ 
+#EXTINF:-1 tvg-id="59" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIassJXBlkU6-8OkAqMCZysRXf9A5xogmFXTaNApCfwDnb8okKc45Y86FGvYjQl__Uq-vk6D6_F9MlLEgnCyct1upWFKuaCRyRxQ9-vKtWH4tB4gLQpjPVAwArGYJSH3pp5nwC6PgvjsbDf_cjLJdob05vJ4tlOPbgpZzjcOB5oNiygnDwQsiQqIQIU2Q/s700/TVN.png" group-title="CHANNEL | INDONESIA PREMIUM", TVN HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
+ 
+#EXTINF:-1 tvg-id="37" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdsAHb6IpjVh5uPBbns_nyJpIPuSKeDkcXspNPbdQuwBC6BF35_BIE1bio9nb4WdU0-8H-uVJpuvLsbIUY06TtfDfBR7-D47dbBeMOch2X7N2swAoFIBZ6QzrHU8H0Hvfa3gMVC59VfklKwDUPpvh8nSn-ckFsyN1G6r0M-aA517G6TwrC2Z31UtMtyq-y/s700/TV5%20MONDE%20STYLE.png" group-title="CHANNEL | INDONESIA PREMIUM", TV5MONDE STYLE HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD
+ 
+#EXTINF:-1 tvg-id="127" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYz13g0ZRev77XodgaU28-keU-i5xxCIj-5syNr7ZdACFvKB5bQaLD1hNJwxPQ7OzxyVNylqrd7SM7mNcOPSdHiQez0ryHM_AGMRid3oUezBGdeU9-VW6ZZ8rInvi3DMAECbRyFGURqbGEmotnPljTH9gVXexujeF-AE-lqpkh3b7nnEwIin5-_p4b0tWI/s700/CREMA%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", CREAMA.TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=crema.tv
+ 
+#EXTINF:-1 tvg-id="128" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgceWmaPZtJsfaIeQsVQscBMyBE4lDGltO6LjA5DmWzBvDwJrxIANMIyOTuMvbt5bSU358f9Pl7_uOmpczi8Xu5MbCWNOMajsHk65RUVIspd5cod71QGUPhHVd278diEe16jStmYQqIPdRKqfqgdIsxrFAzIww2byYMPhyCISQMMK-CJLAZk9pgBaLsRXmO/s700/STRINGRAY%20CLASSICA.png" group-title="CHANNEL | INDONESIA PREMIUM", STRINGRAY CLASSICA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Stingray_Classica
+ 
+#EXTINF:-1 tvg-id="129" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3nitKO6ejvVE_ioD1_jz7WUreYv8MbqK58v-4K4L7ouiVbre54lfJY1EEJUVR22LmJDZ0dokpFQ6y_aFP2YInIzaLUd__RYOOYyB3VseVb_0J8qGMxrmOWggkIrr7cX4777_GUE8EdfPBVh7UZPLbbImIlguqosFI9mBbcrr6sf3ArqFCaGAwx7d7Qup/s700/DELUXE%20LOUNGE.png" group-title="CHANNEL | INDONESIA PREMIUM", DELUXE LOUNGE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Deluxe_Lounge
+ 
+#EXTINF:-1 tvg-id="130" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlbHMOqB_fDpXmkxhtyOXLJgMYNiYC_SRIsYPbryIKMW-XHRm6X-J3J6os-YrRxO0tmix186kqd14zzqGtDDor0_JQ9BZm-AmZpCs82-HFm8Kn4cQ3cmANE1KV0cm_9waQn9P87iKN1X8lwuIccC7a3Kkkoe_PhSgwYwnvJngU7vrNMt8KDCZ7cFTKQA2F/s700/DANCE%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", DANCE TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV
+ 
+#EXTINF:-1 tvg-id="60" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAG3aQBG_pQWJTEDaM-fVme5MYzppW5xUNsPqdzmpCDJ7PoEVNv7KAhzYg-26cREM0QEzgJLjHjYhxw2FBDx82V_IzpvDYUV6TKeNhlCZ7eBGfSP92DO_YMJSh6uU-XVJJ0BSQNP1MDAcmuViI2eI8mXvTAjSdNPxxONQDzCA31zQEylry6F9z9VlM19cz/s700/FIGHT%20SPORTS.png" group-title="CHANNEL | INDONESIA PREMIUM", FIGHT SPORTS HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+ 
+#EXTINF:-1 tvg-id="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhziYqayJSc9sHqYEIUkvC2vQvT3w3FzYQLcbcSmYnUQbOJ6EicC_q_2M1RjDWHwh_yuLUgCZU4V5GOyJdvExyfVxNjsjMT7mlHr7RXKOvgL77OmXHUScbODBsoKhg0jMZpNI2LE8kTxYqY6iJAC0u9rQ9jX6TEBr2Jy483Kgfu8I646PPmd9QkLvdRPhsW/s700/MOTORVISON+.png" group-title="CHANNEL | INDONESIA PREMIUM", MOTOR VISION+
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
+ 
+#EXTINF:-1 tvg-id="120" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg38KPUscthFjIAdpG9ULaiggOIOINVQ31pmTEXamdXUltO0vcwN5c3Iz2ZPxfdbk3XGcODu61yEjHPWLIMQfUkiF6T8aCiiKinL1zNHhyphenhyphenRz2bfeTdIZj7TFzABQRngRoCTjTN0HaJTN3HbrWYAEqM6hwOnGLcNLW_OPrQ2kwyyFtnu_OgKWWHyKOHWOkIz/s700/MOTOR%20RACING%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", MOTOR RACING TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
+ 
+#EXTINF:-1 tvg-id="121" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoL6XysbFwcxZawmrY9KuNo2CdUpK-JLwoYBwqy6RsgBIYanD8n63-XTDR1y6-_Vg4ihK7L9HG6-SgHDMyICw70zFrVOrNfSDb6cY33oOHjrOJASN5gIREl__igqjU_MYTP-DV98AipU9B1v_5V2mLKORLxMt_bw8DD9zYtzICAAudU6XkXLFZmwg5n_yD/s700/HORIZON%20SPORTS.png" group-title="CHANNEL | INDONESIA PREMIUM", HORIZON SPORTS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=HorizonSports
+ 
+#EXTINF:-1 tvg-id="123" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4xmH7L-GiJdxcGCs7kjG-gWhxcGxvaVWlNnc65RVGmttWuPue45jmFHrSZ9Eux78A4jqTBHRJx6hQCwOiW4CHvO3NkSI3W75xNmgv8CPays5V_2TG6ZCgC9pYl2pMwcygQ7WvHGrF7EUczRIAFsqKqU4-EwccPnkjUvKYmFvd74oKaXWnV2nLYxB0zRmV/s700/W-SPORT.png" group-title="CHANNEL | INDONESIA PREMIUM", W-SPORT
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
+ 
+#EXTINF:-1 tvg-id="61" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwplWB_T6jTauJij8vL_XkEiogRFTYQnBSi8lHAW7P7jCfNEYNoKtSfBhMErkjGRgFrgxeSyJ2SDhBCtKQsQDgkt6RsO0qUGFcwfEUHrnj8zPr6NvjdZsqQq_QkfeSEAWxnmLXFZZgrDGGsv1YtfbuW5j7yPurjuhJJFPODgsiRLcn_8B0duZ_KMPlJggK/s700/CNA.png" group-title="CHANNEL | INDONESIA PREMIUM", CNA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA
+ 
+#EXTINF:-1 tvg-id="77" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mTOfH6I9E4LtinZiQ25AYRrHsIwosUD4FQO0tG2AnOZQkPBsoJyBzspwZHolRXiVbP5ILd2TVQk0TT5SzCBWEQmX5aMs0gt0wtDbp_vwrkWiTO6IcwYNNt39OLpUwRKYzP6N31fO61T0klkTcY-1N_CbquPn1_EbcLrIz8G2YafOIUcfmS7C1GsUCiuz/s700/NHK%20WORLD%20JAPAN.png" group-title="CHANNEL | INDONESIA PREMIUM", NHK WORLD JAPAN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN
+ 
+#EXTINF:-1 tvg-id="56" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGv1OY74-3sTht2LwE597uodHsPrJyDZK2F-Raf6wvI_wCKuAPv1-dZgMualjIdCg-DymO7rNXZqZ7FVq5z7VSjBj7CRxPJl1uMMUWn1t7xRhGbV5zoWHbtnXSMZ4LuPwHUdT06h2mrHi1_iYbEshOfRHozGnk8KfmrgNf_QBKptJ5NAVxq-EBx4P3wnPg/s700/AL%20JAZEERA%20ENGLISH.png" group-title="CHANNEL | INDONESIA PREMIUM", AL JAZEERA ENGLISH
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+ 
+#EXTINF:-1 tvg-id="41" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeJwdNkgMzzGp60I6kex0JWsK9bnuECgRkQmlEWsEiUK7PWNFLJ_EMXaJrAbBpnYSjwkv6t7RJfr_Rp_wJq7hvWHtpUpdq6IJhnm6Ca00dtiGVanTxqpZaG46M48TP1pXwO1OgifyQqxb5ZLCPV8CFTb3HdYO5eAz7RjUlXJ73SMo5B7AARn0klBngSBja/s700/TRT%20WORLD.png" group-title="CHANNEL | INDONESIA PREMIUM", TRT WORLD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TRT_World
+ 
+#EXTINF:-1 tvg-id="79" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit-dIHVnJLDmss5ZPZANAzUL307hh96vEG-IYE1FH5QFVWPxdzeVuDM9Nbx1xqDCsPEaa5wxXl8w_0cCaxGddi9ogjgZHWTylOPK_mWlW_8Vq9m1TnDsjNU17z0HnUuaYisz6f8JMSALW0KWQT3yh725WmqWXRQCgdZOmNnjPYO-Y_GXzT6nsaAZ6Cy205/s700/WION.png" group-title="CHANNEL | INDONESIA PREMIUM", WION
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=WION
+ 
+#EXTINF:-1 tvg-id="104" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtklAdNVEV_3VRjZrzNw9R-JkTKWjPcVgADhqEeIzFn9E78X-fSuZCDL5z3MLVNu4KhsSvYX86gc0P3mGgHgD_v-7EYf4DFuyTsv6mZm2SYVm0EYQR3obtcmOyZBXbC4x4aUDANzyswLV38FF0vC9ijNuEbqHn8Z9s3x5hCVACuanPD1RE3QhL4cllcvDU/s700/FREEDOM.png" group-title="CHANNEL | INDONESIA PREMIUM", FREEDOM
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM
+ 
+#EXTINF:-1 tvg-id="27" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEBhSyyHgjU4etXVRMzAJCrf4RwBPxJubUTUkCaWDvaJG28fWMFk_mPE_0cxXCZWtLMEqoelAihV0NMlrs1pcBVJT36NMF1CpLrBAZyXtWCHzY8xXwu5rLq-fOCXF3-9Ilt3NRh7v36jXQcpOj_IRlE1vovrCUBz1KwnqWB74LayRpf7KhVIy6ec_mvI-A/s700/AL%20JAZEERA%20ARAB.png" group-title="CHANNEL | INDONESIA PREMIUM", AL JAZEERA ARABIC
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic
+ 
+#EXTINF:-1 tvg-id="85" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgSqibhPwn30fpygzIcqV6fVOVH0MTIRDJBFd0bBTPdthXJj2izKwEu5N-1wMuN1oEgKAthpoYEBdsDZLMQRY-ecDHpt1sHwKXYrDMPXZh5RX-bcy_bMSdCWAmuslzXg0sQEbSgCPz9SGdf_U56Xkj-C0AbUgoA2pT72qo8k1tf-McI2tD3-7ItMeDk8F/s700/CCTV-4.png" group-title="CHANNEL | INDONESIA PREMIUM", CCTV-4
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
+ 
+#EXTINF:-1 tvg-id="69" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVFjvGXae5djNBQVOxIyo9NiEdp19dZJ80CFSdFJWiglBUv6A3YnoEEMo3YpCnWDS2plwadup7nFqvqZEOW09USYpnlx90dJyJZvn6yubQUHS-bwnojydWUWKjoAbLOvWa-WCXVpOZ-tVgR8C5sz8R2gcAZKEOuD07gFrVriWOiARfAwOvHPbpSJidWH5/s700/FRANCE%2024.png" group-title="CHANNEL | INDONESIA PREMIUM", FRANCE 24
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
+ 
+#EXTINF:-1 tvg-id="90" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTdX3h1orYxwjoKgC2C7P6jcHi69W8nxCpcGDfiJyMVRwtAGmteA5R3sdExCuqJyV4DPyA9MvrnKd5z2IRkW0eIIlnNwrxr0hldOdjzNmZIVJuKa-JMKYp7kmNHLKN4_GZdtLtjvrs47V8MEDa5zFtrcxvFqw27_P3gXFQyc2P4-Sy-Y3Tq-9dzbL-kbCT/s700/TV5%20MONDE%20ASIE.png" group-title="CHANNEL | INDONESIA PREMIUM", TV5MONDE ASIE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE
+ 
+#EXTINF:-1 tvg-id="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3_sFdy4RLlm457rT6SP7xFr7p1wS3agQhyvQ1HLYs-vPAQeMSNDSxITs9lOmpyr-boxmuwduVctvjHkXqKZ5yYn6RKVLEVJm9M5fLM1gpkeGLMxNOpoeqRQbt8lqvP_Fzb1EqW1tC_tk99ZdEYeHPxmjFlaOdHK-AMIHyhd7KawA1VZCrDW9uhSr4HUd/s700/DW-TV.png" group-title="CHANNEL | INDONESIA PREMIUM", DW-TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DW-TV
+ 
+#EXTINF:-1 tvg-id="132" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcjbNChxIO5SamsZhhluX8SASsFepGK_UkGRNzq5jC5BYBZrbDLo-wTSQ-oSSORhzhv0oI8NU9SSG8yjy58KuP1FeRaz31LdHPT4LsOCMpZNBpFnCiwhREZYQzfd9KLe5y0FCcx6lRzHxcIplimyqgaw99PepWWz6irmcSU_WNwpGF8o3t_LwBumuJfzOH/s700/DIM%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", DIM TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DIM_TV
+ 
+#EXTINF:-1 tvg-id="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Sd0O5YJlb6tsWlTQ6_M4fKlSex0fW7TB-5qZqgkS8i4pyususa71FikajBxbXIYxQIRmxNsYio70qsJo_R58BK1ooKnJxoyq-00zpWcv2_XKYu0AeS6plHd6hux7wGq1ELeXn9uteIszInE4ObyMVbl96WT2qB-uS5FlCw5iNxPA9RCD5tX_oJdgTRvv/s700/TBN.png" group-title="CHANNEL | INDONESIA PREMIUM", TBN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
+ 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBIZcRp7DCQ0N1Ik-_Iwh35jygQUORdwf4tGofQVRemPASJcFcNRimSR8pQWKtxa4OlNFEtlPgL7-ByajcZA2J933973MnFJvu__a9Adh0hYrxTdLdoQ8HRA61rhPoJ-uQdPh5syi_T9nDkaB88Ken98PHNcA_9Ppfc5_SF02Os68xPdZpTiXzh4dH5awG/s700/CGTN%20DOCUMENTARY.png" group-title="CHANNEL | INDONESIA PREMIUM", CGTN DOCUMENTARY
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
+ 
+#EXTINF:-1 tvg-id="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpVe1Foh2AoDTG3i4jJmACclO60LT6ynTrkghlCplhiJ7j8iya4wePLcutD7UIMoNoFvTbyK3hsCivYcshdjZ3g_4TwymaBDGELTMvJNHMnAzWh0kwyPmMS5-Wkwn-nBzJgQ5sWxgvXwRGMVc-geClqgfiA3Nb7RaE9Y8lArFcAkz9Wb7WiNymMSaVhYj2/s700/QURAN%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", QURAN KAREEM TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
+ 
+#EXTINF:-1 tvg-id="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghlcwJ0IO4iuG1_KzQvdOJ-LfQoiIHXBDvqTqf58dmw5sEFUlo3SEunYBiqgxnBIuAOyd8-GsWrVD7g8kPTSTbdcFuQC4VhYkEJNm2puCA9dh62_A42Y1L0yOoINDggxjDP8UxEGVcJoe-Mi10KSmtfPpsNrTn29wwVsHpxzQyOGlZoOVvaV-E4886aZ9e/s700/SUNNAH%20NABAWI%20TV.png" group-title="CHANNEL | INDONESIA PREMIUM", SUNNAH NABAWI TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
 
