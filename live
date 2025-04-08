@@ -20379,7 +20379,8 @@
 
 
 
-
+#EXTM3U billed-msg="DENI TV.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 
 
@@ -20509,21 +20510,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjV1CwZB9SiSlsCGEIKnge2iTN7BAZpFL-bsJwuGAkgWZnqzc9pRZsB0&s=10",MNC Sportstar 3 (WORTH)
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjV1CwZB9SiSlsCGEIKnge2iTN7BAZpFL-bsJwuGAkgWZnqzc9pRZsB0&s=10",MNC Sportstar 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="CHANNEL | SPORT INDO ", SOCCER CHANNEL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
 
-===
-=======11/2/2025
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNi3SmN5yyJEt1F7cFzGzqyAbo-Rkz1SWlgYvbl1DrDXT2WgjRhMUXgQ_6&s=10" group-title="CHANNEL | SPORT INDO",SPOTV (I)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -20554,7 +20548,61 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/BYw9xVW.png",SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/xXCBKAM.png",SPOTV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/OkQzNhc.png",Sportstars 1
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/A1hlnLA.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.45.14
+#KODIPROP:inputstream.adaptive.license_key=http://joss.biz.id/rcplus/drm.php?id=113
+http://joss.biz.id/rcplus/index.mpd?id=113
+
+#EXTINF:-1 group-title="CHANNEL | SPORT INDO" tvg-logo="https://i.imgur.com/dIcTZj3.png",Sportstars 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-logo="https://i.imgur.com/dIcTZj3.png" group-title="CHANNEL | SPORT INDO",Sportstars 3.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="CHANNEL | SPORT INDO", Sportstars 4
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-l.png" group-title="CHANNEL | SPORT INDO", Soccer Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
@@ -20573,18 +20621,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PIALA ASIA U17
 
-#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="LIVE | PIALA ASIA U17",AstArena 2
-http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
-
-#EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="LIVE | PIALA ASIA U17",AstArena Bola 2
-http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/rxlrjkA.jpeg",BOLA | AFC U17
-#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="LIVE | PIALA ASIA U17",AstArena 1
-http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
-
-#EXTINF:-1 tvg-id="ARENA BOLA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="LIVE | PIALA ASIA U17",AstArena Bola 1
-http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="LIVE | PIALA ASIA U17", Sportstars 4
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjV1CwZB9SiSlsCGEIKnge2iTN7BAZpFL-bsJwuGAkgWZnqzc9pRZsB0&s=10" group-title="LIVE | PIALA ASIA U17", SPORTSTAR 2
