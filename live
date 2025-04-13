@@ -22098,69 +22098,37 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 ######## LIVE | F1 ######
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | F1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | FORMULA 1
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | F1" , F1 GRAND PRIX 2024 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | F1",  F1 GRAND PRIX 2024
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
-https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
-
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | F1",  F1 GRAND PRIX 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | F1",  F1 GRAND PRIX 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138719.m3u8
-
-#EXTINF:-1 group-title="LIVE | F1" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png", E-PRIX 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 group-title="LIVE | F1" tvg-id="SSC 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png", E-PRIX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://iili.io/JpwIXfe.jpg" group-title="LIVE | F1", Sky SPORT F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | FORMULA 1" , F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium60/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://wikinew.newkso.ru/wiki/daznf1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BandSports HD.br" group-title="LIVE | F1" tvg-logo="https://iili.io/JyvMYQe.png", BandSports HD.BRA
+
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | FORMULA 1",  F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium275/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://top2new.newkso.ru/top2/eplayerskyf1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPORT 4PT" group-title="LIVE | F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940", FORMULA ONE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | FORMULA 1",  F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium289/playlist.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
 
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="LIVE | F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png", E-PRIX 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | FORMULA 1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" group-title="LIVE | F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png", E-PRIX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | FORMULA 1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="LIVE | FORMULA 1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://reliabletv.me/
+https://s-b2.aistrem.net/plyvivo/m0yer0rube7ibomumugu/chunklist.m3u8
 
 
 
@@ -22172,7 +22140,46 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | MotoGP
 
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="LIVE | MotoGP", MotoGP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
+
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="LIVE | MotoGP",  MotoGP 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="LIVE | MotoGP", MOTO GP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="LIVE | MotoGP" tvg-id="TNTSports4.uk" tvg-logo="https://logoeps.com/wp-content/uploads/2013/03/motocross-world-championship-vector-logo.png",TNT SPORTS 4 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JyvjgLP.png" group-title="LIVE | MotoGP", MOTOGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddh2new.newkso.ru/ddh2/premium32/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="V Sport 1" tvg-logo="https://iili.io/JyvjgLP.png" group-title="LIVE | MotoGP", MotoGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://ddy6new.newkso.ru/ddy6/premium819/mono.m3u8
 
 
 
@@ -24267,45 +24274,6 @@ https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 
 
-
-
-
-
-
-(((((((((((((((((((((((((((( SONY SPORT ))))))))))))))))))))))))))))))))
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SONY SPORT
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="CHANNEL | SONY SPORT",SONY SPORTS TEN 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium885/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="CHANNEL | SONY SPORT",SONY SPORTS TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium886/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="CHANNEL | SONY SPORT",SONY SPORTS TEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium887/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="CHANNEL | SONY SPORT",SONY SPORTS TEN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium888/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="CHANNEL | SONY SPORT",SONY SPORTS TEN 5
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
 
@@ -26883,69 +26851,107 @@ http://extraott.com:900/live/3162523972/3791698850/401442723.m3u8
  
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 1 EN
-https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlkey=515fu1im8yqziqmb4mbci0b94&st=g06sqoia
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA English 1
+https://windnew.newkso.ru/wind/premium61/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 2 EN
-https://dl.dropboxusercontent.com/scl/fi/42ewu9rmfbiy0ossufv34/beinen2.m3u8?rlkey=cfd01zjm09c53do9lx6alnzh6&st=zkvw65j8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA English 2
+https://zekonew.newkso.ru/zeko/premium90/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA English 3
+https://windnew.newkso.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 1
+https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/f9o439dl0z52ppfg5x60j/beinar2.m3u8?rlkey=r8ajkq6jfsnng5m8s9yxs8n41&st=2lr6qsa8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 2
+https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 3
+https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 4
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 5
+https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 6
+https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 4
-https://dl.dropboxusercontent.com/scl/fi/ex1wzlrpmsvin1ppv9uoo/beinar4.m3u8?rlkey=v9elvwy9r700jfi5qvfc8n3f1&st=akx2s6bq
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 7
+https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 8
+https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 5
-https://dl.dropboxusercontent.com/scl/fi/o603gu8jap2jn8a13ywi5/beinar5.m3u8?rlkey=3nq3xxdiyjl6ufzhc4ni9r957&st=stbcic79
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 9
+https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS XTRA 1
+https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 6
-https://dl.dropboxusercontent.com/scl/fi/xa21c0age99dnpypd8og4/beinar6.m3u8?rlkey=ccemch038se1o9ri57cut2w1m&st=m8b0fahx
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS XTRA 2
+https://windnew.newkso.ru/wind/premium43/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 4 France
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 7
-https://dl.dropboxusercontent.com/scl/fi/xvy1p8bo4bkcd4na7s2ng/beinar7.m3u8?rlkey=tdtl5904wr6qlrbfmj8wu0zdp&st=bxejjfn9
+#EXTINF:-1 vg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 5 France
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 8
-https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlkey=wahbp7q07dxr6khxgnmfrfqbu&st=3hy5nclh
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 6 France
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="CHANNEL | BEIN SPORT", BEIN SPORTS 9
-https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlkey=kbmouwhsa35pu5a701alljo9z&st=h99fkpab
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 7 France
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 8 France
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 9 France
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MAX 10 France
+https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 1 France
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 2 France
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 3 France
+https://zekonew.newkso.ru/zeko/premium118/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 1 Turkey
+https://zekonew.newkso.ru/zeko/premium62/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 2 Turkey
+https://zekonew.newkso.ru/zeko/premium63/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 3 Turkey
+https://zekonew.newkso.ru/zeko/premium64/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS 4 Turkey
+https://zekonew.newkso.ru/zeko/premium67/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",BeIN Sports HD Qatar
+https://windnew.newkso.ru/wind/premium578/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",BeIN SPORTS USA
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS en Español
+https://zekonew.newkso.ru/zeko/premium372/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS Australia 1
+https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS Australia 2
+https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN SPORTS Australia 3
+https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 
