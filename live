@@ -23532,10 +23532,6 @@ https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
 http://extraott.com:900/live/3162523972/3791698850/191853.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="CHANNEL | SPORTS",MY| ARENA FHD
 http://extraott.com:900/live/3162523972/3791698850/29658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="CHANNEL | SPORTS",MY| ARENA 2 HD
-http://extraott.com:900/live/3162523972/3791698850/185822.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 FHD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="CHANNEL | SPORTS",MY| ARENA 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/13111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 1" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="CHANNEL | SPORTS",MY| ARENA BOLA 1
 http://extraott.com:900/live/3162523972/3791698850/401550644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="CHANNEL | SPORTS",MY| ARENA BOLA 2
@@ -23566,14 +23562,6 @@ http://extraott.com:900/live/3162523972/3791698850/401600420.m3u8
 http://extraott.com:900/live/3162523972/3791698850/401600421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO FOOTBALL FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="CHANNEL | SPORTS",MY| FOOTBALL FHD
 http://extraott.com:900/live/3162523972/3791698850/401600422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="CHANNEL | SPORTS",MY| BADMINTON HD
-http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="CHANNEL | SPORTS",MY| BADMINTON FHD
-http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="CHANNEL | SPORTS",MY| BADMINTON 2 HD
-http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="CHANNEL | SPORTS",MY| BADMINTON 2 FHD
-http://extraott.com:900/live/3162523972/3791698850/401600426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png" group-title="CHANNEL | SPORTS",MY| SPOTV 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 FHD" tvg-logo="https://img.logo-cdn.cc/sportsspotv.png" group-title="CHANNEL | SPORTS",MY| SPOTV 1 FHD
@@ -23777,7 +23765,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="CHANNEL | KOREA",Tvn Movies (V+🟦)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="CHANNEL | KOREA",Tvn Movies (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -23789,7 +23777,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qdkr0yE.jpeg"" group-title="CHANNEL | KOREA",TVN (V+🟦)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdkr0yE.jpeg"" group-title="CHANNEL | KOREA",TVN (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 ===
