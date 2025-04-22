@@ -22247,58 +22247,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="CHANNEL | SPORTS" , BEIN SPORTS XTRA En Español 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
-
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png",BEIN SPORTS 1 ENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png",BEIN SPORTS 2 ENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium90/mono.m3u8
-
-
-#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yemmFvdd_t5QMChqlgqyM78FHxvPW2EZqg&s" group-title="CHANNEL | SPORTS", CYTAVISION 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium912/mono.m3u8
-
-
-#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yemmFvdd_t5QMChqlgqyM78FHxvPW2EZqg&s" group-title="CHANNEL | SPORTS", CYTAVISION 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium913/mono.m3u8
-
-#EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="CYTA4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2yemmFvdd_t5QMChqlgqyM78FHxvPW2EZqg&s" group-title="CHANNEL | SPORTS", CYTAVISION 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium914/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="CHANNEL | SPORTS" , CCTV-5
 http://lt.hxtre.com:35455/gaoma/cctv5.m3u8
@@ -25559,14 +25507,54 @@ https://fl4.moveonjoy.com/FOX_Sports_1/iex.m3u8
  
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA English 1
-https://windnew.newkso.ru/wind/premium61/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA English 2
-https://zekonew.newkso.ru/zeko/premium90/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA English 3
-https://windnew.newkso.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 1
+http://filex.tv:8080/aftab123/004090/332932
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 2
+http://filex.tv:8080/aftab123/004090/332933
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 3
+http://filex.tv:8080/aftab123/004090/332934
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 4
+http://filex.tv:8080/aftab123/004090/332935
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 5
+http://filex.tv:8080/aftab123/004090/332936
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 6
+http://filex.tv:8080/aftab123/004090/332937
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 7
+http://filex.tv:8080/aftab123/004090/332938
+
+#EXTINF:-1,QA: group-title="TCHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 8
+http://filex.tv:8080/aftab123/004090/332939
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports 9
+http://filex.tv:8080/aftab123/004090/332940
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports English 1
+http://filex.tv:8080/aftab123/004090/332941
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports English 2
+http://filex.tv:8080/aftab123/004090/332942
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports English 3
+http://filex.tv:8080/aftab123/004090/332943
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports Global
+http://filex.tv:8080/aftab123/004090/332944
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports News
+http://filex.tv:8080/aftab123/004090/332945
+
+#EXTINF:-1,QA: group-title="CHANNEL | BEIN SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3r1Ms3880vpnxKrarYZyEDQ8Y6dMI-X4ayy_R5zsyMP3JRp4187u6XLU&s=10",  beIN Sports Premium 1
+http://filex.tv:8080/aftab123/004090/332946
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JhkLZXa.png" group-title="CHANNEL | BEIN SPORT",beIN Sports MENA 1
 https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
