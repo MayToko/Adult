@@ -20979,71 +20979,38 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDONESIA
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/XHn6JG6.png" group-title="CHANNEL | INDONESIA",Trans7 
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="CHANNEL | INDONESIA", RCTI_+ 
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg",Trans TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-
-*********************************************EMTEX**************************************************
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | INDONESIA",INDOSIAR 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#EXTINF:-1 tvg-id="RCTI.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="CHANNEL | INDONESIA",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="CHANNEL | INDONESIA", MNCTV_+ 
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#EXTINF:-1 tvg-id="MNCTV.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV HD
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="CHANNEL | INDONESIA",SCTV
-https://zozotv.xyz:443/live/zotv744/zxy086/46.ts
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="CHANNEL | INDONESIA", GTV_+ 
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="CHANNEL | INDONESIA", MOJI
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+#EXTINF:-1 tvg-id="GTV.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="CHANNEL | INDONESIA", INEWS_+ 
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-
-
-.
-
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://iili.io/JMp3joP.png" group-title="CHANNEL | INDONESIA", GTV (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL | INDONESIA", MNCTV (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="CHANNEL | INDONESIA", iNews (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title=" CHANNEL | INDONESIA", RCTI (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-
-
-.
-#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-logo="https://iili.io/JV3xQN2.png" group-title="CHANNEL | INDONESIA",Sindonews TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
- 
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+#EXTINF:-1 tvg-id="iNews.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews HD
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="CHANNEL | INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21059,11 +21026,50 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="CHANNEL | INDONESIA",Indosiar
 http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646
 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="CHANNEL | INDONESIA",Indosiar (live)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
+
+
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="CHANNEL | INDONESIA",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+#EXTINF:-1 tvg-id="TransTV.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV
+https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="TransTV.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV HD
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+#EXTINF:-1 tvg-id="Trans7.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7
+https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="Trans7.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7 HD
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="CHANNEL | INDONESIA",tvOne
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+#EXTINF:-1 tvg-id="tvOne.id" group-title="CHANNEL | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne
+https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="CHANNEL | INDONESIA",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -21084,12 +21090,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="NET TV.id" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="CHANNEL | INDONESIA",MDTV
 http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4658
  
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="CHANNEL | INDONESIA",RTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="CHANNEL | INDONESIA",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
  
@@ -21125,18 +21125,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
- 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="CHANNEL | INDONESIA",tvOne
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
- 
-#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://iili.io/JV3xvtI.png" group-title="CHANNEL | INDONESIA",IDX Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
  
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://iili.io/28yoeNn.png" group-title="CHANNEL | INDONESIA",Beritasatu
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
@@ -26759,7 +26747,3 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="CHANNEL | INDONESIA;CHANNEL | VISION+",Trans TV CDG
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="CHANNEL | INDONESIA;CHANNEL | VISION+",Trans 7 CDG 
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
