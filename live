@@ -21089,7 +21089,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mp
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" group-logo="https://iili.io/JMp3Qls.png" tvg-logo="https://i.imgur.com/Tw15BHc.png", TRANS7 2
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" group-logo="https://iili.io/JMp3Qls.png" tvg-logo="https://iili.io/JMp3Qls.png", TRANS7 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
