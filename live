@@ -689,13 +689,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="CHANNEL | INDONESIA", Oxygen TV
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
- (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3PVt.png" group-title="CHANNEL | INDONESIA",RTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://iili.io/JMp3PVt.png" group-title="CHANNEL | INDONESIA", RTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -723,11 +721,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://iili.io/JV3xDo7.png" group-title="CHANNEL | INDONESIA", TVOne
-##https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
-https://phdown.serv00.net/Smartv.php?id=Tvone
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iili.io/JV3xDo7.png", TVONE 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://iili.io/JMp3DJf.png" group-title="CHANNEL | INDONESIA", TVRI Nasional
@@ -748,55 +746,55 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3wV1.png" group-title="CHANNEL | INDONESIA"",Indosiar FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=Indosiar
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3wV1.png" group-title="CHANNEL | INDONESIA",INDOSIAR BRI LIGA 1
+http://xtv.ooo:8080/live/387546/200900/350972.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="CHANNEL | INDONESIA"", RcTi
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp36xI.png" group-title="CHANNEL | INDONESIA",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://iili.io/JMp36xI.png" group-title="CHANNEL | INDONESIA",RCTI HD
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="CHANNEL | INDONESIA"",RcTi FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=Rcti
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3joP.png" group-title="CHANNEL | INDONESIA"",GtV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/gTv-HD.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3joP.png" group-title="CHANNEL | INDONESIA", GTV
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3joP.png" group-title="CHANNEL | INDONESIA"", GtV FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=Gtv
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL | INDONESIA"",MncTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/MnC-TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL | INDONESIA"",MncTV FHD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://phdown.serv00.net/Smartv.php?id=Mnctv
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL | INDONESIA",MNCTV (V+)
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+ 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL | INDONESIA", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2Sg7qyF.png" group-title="CHANNEL | INDONESIA"", MdTV
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="CHANNEL | INDONESIA"",TransTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="CHANNEL | INDONESIA",Trans TV
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="CHANNEL | INDONESIA",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="CHANNEL | INDONESIA"",TransTV FHD
-https://phdown.serv00.net/Smartv.php?id=Transtv
-
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3Qls.png" group-title="CHANNEL | INDONESIA"",Trans7
+#EXTINF:-1 tvg-logo="" group-title="CHANNEL | INDONESIA"",Trans7
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jmf9A4S.png" group-title="CHANNEL | INDONESIA"",AnTv
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3Qls.png" group-title="CHANNEL | INDONESIA",Trans7 (V+)
+http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/Jmf9A4S.png" group-title="CHANNEL | INDONESIA"", AnTv FHD
-https://phdown.serv00.net/Smartv.php?id=Antv
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iili.io/JMp3Qls.png" group-title="CHANNEL | INDONESIA",Trans7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/Jmf9A4S.png" group-title="CHANNEL | INDONESIA",ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
 
